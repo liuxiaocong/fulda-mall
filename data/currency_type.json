@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "symbol": null,
+    "name": null,
+    "code": null,
+    "countryCode": "SG"
+  },
+  {
+    "id": 2,
+    "symbol": null,
+    "name": null,
+    "code": null,
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "symbol": null,
+    "name": null,
+    "code": null,
+    "countryCode": "CN"
+  },
+  {
+    "id": 4,
+    "symbol": null,
+    "name": null,
+    "code": null,
+    "countryCode": "MY"
+  }
+]

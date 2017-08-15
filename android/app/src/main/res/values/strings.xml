@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><resources>    <string name="downloading">Downloading …</string>
+    <string name="download_in_progress">Downloading - </string>
+    <string name="version_content">The latest version：%1$s\nNew version size：%2$s</string>
+    <string name="soft_update">Software Update</string>
+    <string name="force_update">You need to update your app to continue\n\n</string>
+    <string name="ok">OK</string>
+    <string name="update_immediately">Update Immediately</string>
+    <string name="update_late">Later</string>
+    <string name="update_ignore">Ignore</string>
+</resources>

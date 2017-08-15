@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hock_app_app_identifier</key>
+	<string>127d5b3a6b5f45eebebd55e1ffa82ebf</string>
+	<key>api_domain</key>
+	<string>https://stageapi.fuldamall.com</string>
+	<key>web_domain</key>
+	<string>https://sandbox.fuldamall.com</string>
+	<key>google_api_key</key>
+	<string>AIzaSyCO2Fx2so3GBmPAwH8-jRf7Y4fXy4ahPp4</string>
+	<key>gcm_sender_id</key>
+	<string>847555200264</string>
+</dict>
+</plist>

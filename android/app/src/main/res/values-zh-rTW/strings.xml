@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloading">下載中…</string>
+    <string name="download_in_progress">下載中 - </string>
+    <string name="version_content">最新版本：%1$s\n新版本大小：%2$s</string>
+    <string name="soft_update">應用更新</string>
+    <string name="force_update">您需要更新應用才能繼續使用\n\n</string>
+    <string name="ok">確定</string>
+    <string name="update_immediately">立即更新</string>
+    <string name="update_late">以後再說</string>
+    <string name="update_ignore">忽略該版</string>
+</resources>

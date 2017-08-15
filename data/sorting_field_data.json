@@ -1,0 +1,12 @@
+[
+  {
+    "zh_CN": "商铺等级",
+    "en_US": "Shop Level",
+    "code": "shopLevel"
+  },
+  {
+    "zh_CN": "加盟时间",
+    "en_US": "Register Data",
+    "code": "registerDate"
+  }
+]

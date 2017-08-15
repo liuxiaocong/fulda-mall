@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id" translatable="false">395037274205163</string>
+    <string name="hock_app_app_identifier" translatable="false">db00608f79004c729b07901c583d03c9</string>
+    <string name="api_domain" translatable="false">https://api.fuldamall.com</string>
+    <string name="web_domain" translatable="false">https://www.fuldamall.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnII-kFAX9OvRyf1x-lLZL_2L0F1gI520</string>
+    <string name="gcm_sender_id" translatable="false">19174040829</string>
+
+</resources>

@@ -1,0 +1,41 @@
+PODS:
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.2.0):
+    - GoogleMaps (= 2.2.0)
+    - GooglePlaces (= 2.2.0)
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - HockeySDK (4.1.5):
+    - HockeySDK/DefaultLib (= 4.1.5)
+  - HockeySDK/DefaultLib (4.1.5)
+  - QBImagePickerController (3.4.0)
+  - RSKImageCropper (1.6.1)
+  - ZXingObjC (3.2.1):
+    - ZXingObjC/All (= 3.2.1)
+  - ZXingObjC/All (3.2.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - HockeySDK
+  - QBImagePickerController
+  - RSKImageCropper
+  - ZXingObjC
+
+SPEC CHECKSUMS:
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlacePicker: 345b1aabd42c9d6d9bf2369c1bae1234d903e764
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  HockeySDK: 606b537bbfbe454ee440e92cc93bc634b3c77151
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  RSKImageCropper: 0df8c99e77a8ea7ca7a8b83ef468556f31584254
+  ZXingObjC: bbf7b8f0cf8933fdd33eb4f9f46e22308552869b
+
+PODFILE CHECKSUM: 1b10953076210e1c18173d40347b86399446c2c1
+
+COCOAPODS: 1.2.1

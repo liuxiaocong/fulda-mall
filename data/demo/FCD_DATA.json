@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "type": 1,
+  "typeText": "Top Up",
+  "reason": 3,
+  "reasonText": "System settings",
+  "reference": "1482423183DzT4Yp0rH5A4qTk84EIN",
+  "opponentId": -1,
+  "opponentName": "富达",
+  "point": 1.0,
+  "pointBalance": 1.0,
+  "fee": 0.0,
+  "transactionDate": 1482423183,
+  "statusText": "成功",
+  "status": 1
+}

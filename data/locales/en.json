@@ -1,0 +1,1389 @@
+{
+  "about_fulda": "About Us",
+  "account": "Account",
+  "account_balance": "Account Balance",
+  "account_info": "Account Info",
+  "account_type": {
+    "common_user": "Common User",
+    "shopper": "Common Shop"
+  },
+  "actually_amount": "Receive",
+  "add_account": "Add Account",
+  "add_address": "Add Address",
+  "add_card": "Add Card",
+  "add_card_agreement_detail": "By adding your debit / credit card, you agree to the agreement in {}",
+  "add_card_agreement_title": "Term & conditions",
+  "add_fail": "Failed. Please try again.",
+  "add_now": "Add now",
+  "add_payment_methods": "Add Payment Methods",
+  "add_success": "Added successfully",
+  "add_to_shopping_cart": "Add to shopping cart",
+  "add_to_shopping_cart_success": "Add to shopping cart success",
+  "address": "Address",
+  "album": "Album",
+  "already_close": "Already closed",
+  "already_deliver": "Delivered",
+  "already_receive": "Already Receive",
+  "amount_set_cancel": "Cancel Amount Set",
+  "app_name": "Fulda Mall",
+  "apply_access": "Apply",
+  "attitude_of_shop_owner": "Attitude of shop owner",
+  "attributes": "attributes",
+  "available_balance": "Available Balance",
+  "average_comment": "Average",
+  "back_to_login_page": "Back To Login Page",
+  "back_to_main_page": "Back To Main Page",
+  "back_to_my_wallet": "Back To My Wallet",
+  "back_to_personal_info_page": "Back To Personal Info Page",
+  "back_to_setting_page": "Back To Setting Page",
+  "bad": "Bad",
+  "bad_comment": "Bad",
+  "bank_account": "Bank Account",
+  "bank_account_name": "Bank Account Name",
+  "bank_name": "Bank Name",
+  "base_info": "Base Info",
+  "base_setting": "Base Setting",
+  "be_sure_bank_account_the_same": "Make sure detail of bank account is the same",
+  "become_seller": "Become Seller",
+  "belong_area": "Belong Area",
+  "bind": "Bind",
+  "bind_exist_account": "Bind Existing Account",
+  "bind_wechat": "Bind Wechat",
+  "birthday": "Birthday",
+  "bottom_code": "Bottom Code",
+  "brand": "Brand",
+  "browse": "Browse",
+  "business_agreement": "Seller Agreement",
+  "business_agreement_title": "Seller Agreement",
+  "business_list": "Shop List",
+  "business_order": "Merchant Order",
+  "buy_immediately": "Buy immediately",
+  "cancel": "Cancel",
+  "cancel_order": "Cancel order",
+  "cancel_success": "Cancel success",
+  "cannot_delete_default_account": "Can't delete default account",
+  "card_number": "Card number",
+  "category": "Category",
+  "choose_only_one_shop_to_pay": "Please choose only one shop to pay",
+  "classification_title": "Classification: ",
+  "clear_history": "Clear History",
+  "client_comments": "Client Comments",
+  "close_reason": "Close Reason",
+  "comment": "Comment",
+  "common": {
+    "cancel": "Cancel",
+    "distance": {
+      "kilometer": "{} km",
+      "meter": "{} m"
+    },
+    "ok": "OK"
+  },
+  "company_register_number": "Company Register Number",
+  "complete": "Completed",
+  "complete_user_info": "Complete Info",
+  "confirm": "Confirm",
+  "confirm_already_shipping": "Confirm already shipping?",
+  "confirm_close": "Closed",
+  "confirm_order": "Confirm order",
+  "confirm_password": "Confirm Password",
+  "confirm_shipping": "Confirm shipping",
+  "confirm_to_cancel_order": "Confirm to cancel this order?",
+  "confirm_to_delete_address": "Confirm to delete this '{}' ?",
+  "confirm_to_delete_order": "Confirm to delete this order?",
+  "confirm_to_receive_order": "Confirm receive this order?",
+  "congratulation_verify_mobile_success": "Congratulations! You have successfully confirmed the mobile!",
+  "core_setting": "Core Setting",
+  "cost": "Coast",
+  "count": "Count",
+  "country": {
+    "AD": {
+      "sort": "",
+      "value": "Andorra"
+    },
+    "AE": {
+      "sort": "",
+      "value": "United Arab Emirates"
+    },
+    "AF": {
+      "sort": "",
+      "value": "Afghanistan"
+    },
+    "AG": {
+      "sort": "",
+      "value": "Antigua and Barbuda"
+    },
+    "AI": {
+      "sort": "",
+      "value": "Anguilla"
+    },
+    "AL": {
+      "sort": "",
+      "value": "Albania"
+    },
+    "AM": {
+      "sort": "",
+      "value": "Armenia"
+    },
+    "AN": {
+      "sort": "",
+      "value": "Netherlands Antilles"
+    },
+    "AO": {
+      "sort": "",
+      "value": "Angola"
+    },
+    "AR": {
+      "sort": "",
+      "value": "Argentina"
+    },
+    "AT": {
+      "sort": "",
+      "value": "Austria"
+    },
+    "AU": {
+      "sort": "",
+      "value": "Australia"
+    },
+    "AW": {
+      "sort": "",
+      "value": "Aruba"
+    },
+    "AZ": {
+      "sort": "",
+      "value": "Azerbaijan"
+    },
+    "BA": {
+      "sort": "",
+      "value": "Bosnia Herzegovina"
+    },
+    "BB": {
+      "sort": "",
+      "value": "Barbados"
+    },
+    "BD": {
+      "sort": "",
+      "value": "Bangladesh"
+    },
+    "BE": {
+      "sort": "",
+      "value": "Belgium"
+    },
+    "BF": {
+      "sort": "",
+      "value": "Burkina Faso"
+    },
+    "BG": {
+      "sort": "",
+      "value": "Bulgaria"
+    },
+    "BH": {
+      "sort": "",
+      "value": "Bahrain"
+    },
+    "BI": {
+      "sort": "",
+      "value": "Burundi"
+    },
+    "BJ": {
+      "sort": "",
+      "value": "Benin"
+    },
+    "BM": {
+      "sort": "",
+      "value": "Bermuda"
+    },
+    "BN": {
+      "sort": "",
+      "value": "Brunei Darussalam"
+    },
+    "BO": {
+      "sort": "",
+      "value": "Bolivia"
+    },
+    "BR": {
+      "sort": "",
+      "value": "Brazil"
+    },
+    "BS": {
+      "sort": "",
+      "value": "Bahamas"
+    },
+    "BT": {
+      "sort": "",
+      "value": "Bhutan"
+    },
+    "BW": {
+      "sort": "",
+      "value": "Botswana"
+    },
+    "BY": {
+      "sort": "",
+      "value": "Belarus"
+    },
+    "BZ": {
+      "sort": "",
+      "value": "Belize"
+    },
+    "CA": {
+      "sort": "",
+      "value": "Canada"
+    },
+    "CD": {
+      "sort": "",
+      "value": "Congo (Democratic Republic)"
+    },
+    "CF": {
+      "sort": "",
+      "value": "Central African Republic"
+    },
+    "CG": {
+      "sort": "",
+      "value": "Congo (Republic of)"
+    },
+    "CH": {
+      "sort": "",
+      "value": "Switzerland"
+    },
+    "CK": {
+      "sort": "",
+      "value": "Cook Islands"
+    },
+    "CL": {
+      "sort": "",
+      "value": "Chile"
+    },
+    "CM": {
+      "sort": "",
+      "value": "Cameroon"
+    },
+    "CN": {
+      "currency_name": "Chinese Yuan",
+      "sort": "",
+      "value": "China"
+    },
+    "CO": {
+      "sort": "",
+      "value": "Colombia"
+    },
+    "CR": {
+      "sort": "",
+      "value": "Costa Rica"
+    },
+    "CU": {
+      "sort": "",
+      "value": "Cuba"
+    },
+    "CV": {
+      "sort": "",
+      "value": "Cabo Verde"
+    },
+    "CY": {
+      "sort": "",
+      "value": "Cyprus"
+    },
+    "CZ": {
+      "sort": "",
+      "value": "Czech Republic"
+    },
+    "DE": {
+      "sort": "",
+      "value": "Germany"
+    },
+    "DJ": {
+      "sort": "",
+      "value": "Djibouti"
+    },
+    "DK": {
+      "sort": "",
+      "value": "Denmark"
+    },
+    "DM": {
+      "sort": "",
+      "value": "Dominica"
+    },
+    "DO": {
+      "sort": "",
+      "value": "Dominican Republic"
+    },
+    "DZ": {
+      "sort": "",
+      "value": "Algeria"
+    },
+    "EC": {
+      "sort": "",
+      "value": "Ecuador"
+    },
+    "EE": {
+      "sort": "",
+      "value": "Estonia"
+    },
+    "EG": {
+      "sort": "",
+      "value": "Egypt"
+    },
+    "ES": {
+      "sort": "",
+      "value": "Spain"
+    },
+    "ET": {
+      "sort": "",
+      "value": "Ethiopia"
+    },
+    "FI": {
+      "sort": "",
+      "value": "Finland"
+    },
+    "FJ": {
+      "sort": "",
+      "value": "Fiji"
+    },
+    "FM": {
+      "sort": "",
+      "value": "Micronesia"
+    },
+    "FO": {
+      "sort": "",
+      "value": "Faroe Islands"
+    },
+    "FR": {
+      "sort": "",
+      "value": "France"
+    },
+    "GA": {
+      "sort": "",
+      "value": "Gabon"
+    },
+    "GB": {
+      "sort": "",
+      "value": "United Kingdom"
+    },
+    "GD": {
+      "sort": "",
+      "value": "Grenada"
+    },
+    "GE": {
+      "sort": "",
+      "value": "Georgia"
+    },
+    "GF": {
+      "sort": "",
+      "value": "French Guiana"
+    },
+    "GG": {
+      "sort": "",
+      "value": "Guernsey"
+    },
+    "GH": {
+      "sort": "",
+      "value": "Ghana"
+    },
+    "GI": {
+      "sort": "",
+      "value": "Gibraltar"
+    },
+    "GL": {
+      "sort": "",
+      "value": "Greenland"
+    },
+    "GM": {
+      "sort": "",
+      "value": "Gambia"
+    },
+    "GN": {
+      "sort": "",
+      "value": "Guinea"
+    },
+    "GP": {
+      "sort": "",
+      "value": "Guadeloupe"
+    },
+    "GQ": {
+      "sort": "",
+      "value": "Equatorial Guinea"
+    },
+    "GR": {
+      "sort": "",
+      "value": "Greece"
+    },
+    "GT": {
+      "sort": "",
+      "value": "Guatemala"
+    },
+    "GU": {
+      "sort": "",
+      "value": "Guam"
+    },
+    "GW": {
+      "sort": "",
+      "value": "Guinea-Bissau"
+    },
+    "GY": {
+      "sort": "",
+      "value": "Guyana"
+    },
+    "HK": {
+      "sort": "",
+      "value": "Hong Kong"
+    },
+    "HN": {
+      "sort": "",
+      "value": "Honduras"
+    },
+    "HR": {
+      "sort": "",
+      "value": "Croatia"
+    },
+    "HT": {
+      "sort": "",
+      "value": "Haiti"
+    },
+    "HU": {
+      "sort": "",
+      "value": "Hungary"
+    },
+    "ID": {
+      "sort": "",
+      "value": "Indonesia"
+    },
+    "IE": {
+      "sort": "",
+      "value": "Ireland (Republic of)"
+    },
+    "IL": {
+      "sort": "",
+      "value": "Israel"
+    },
+    "IM": {
+      "sort": "",
+      "value": "Isle of Man"
+    },
+    "IN": {
+      "sort": "",
+      "value": "India"
+    },
+    "IQ": {
+      "sort": "",
+      "value": "Iraq"
+    },
+    "IR": {
+      "sort": "",
+      "value": "Iran"
+    },
+    "IS": {
+      "sort": "",
+      "value": "Iceland"
+    },
+    "IT": {
+      "sort": "",
+      "value": "Italy"
+    },
+    "JE": {
+      "sort": "",
+      "value": "Jersey"
+    },
+    "JM": {
+      "sort": "",
+      "value": "Jamaica"
+    },
+    "JO": {
+      "sort": "",
+      "value": "Jordan"
+    },
+    "JP": {
+      "sort": "",
+      "value": "Japan"
+    },
+    "KE": {
+      "sort": "",
+      "value": "Kenya"
+    },
+    "KG": {
+      "sort": "",
+      "value": "Kyrgyzstan"
+    },
+    "KH": {
+      "sort": "",
+      "value": "Cambodia"
+    },
+    "KI": {
+      "sort": "",
+      "value": "Kiribati"
+    },
+    "KM": {
+      "sort": "",
+      "value": "Comoros"
+    },
+    "KN": {
+      "sort": "",
+      "value": "Saint Kitts and Nevis"
+    },
+    "KP": {
+      "sort": "",
+      "value": "North Korea"
+    },
+    "KR": {
+      "sort": "",
+      "value": "South Korea"
+    },
+    "KW": {
+      "sort": "",
+      "value": "Kuwait"
+    },
+    "KY": {
+      "sort": "",
+      "value": "Cayman Islands"
+    },
+    "KZ": {
+      "sort": "",
+      "value": "Kazakhstan"
+    },
+    "LA": {
+      "sort": "",
+      "value": "Laos"
+    },
+    "LB": {
+      "sort": "",
+      "value": "Lebanon"
+    },
+    "LC": {
+      "sort": "",
+      "value": "Saint Lucia"
+    },
+    "LI": {
+      "sort": "",
+      "value": "Liechtenstein"
+    },
+    "LK": {
+      "sort": "",
+      "value": "Sri Lanka"
+    },
+    "LR": {
+      "sort": "",
+      "value": "Liberia"
+    },
+    "LS": {
+      "sort": "",
+      "value": "Lesotho"
+    },
+    "LT": {
+      "sort": "",
+      "value": "Lithuania"
+    },
+    "LU": {
+      "sort": "",
+      "value": "Luxembourg"
+    },
+    "LV": {
+      "sort": "",
+      "value": "Latvia"
+    },
+    "LY": {
+      "sort": "",
+      "value": "Libya"
+    },
+    "MA": {
+      "sort": "",
+      "value": "Morocco"
+    },
+    "MC": {
+      "sort": "",
+      "value": "Monaco"
+    },
+    "MD": {
+      "sort": "",
+      "value": "Moldova"
+    },
+    "ME": {
+      "sort": "",
+      "value": "Montenegro"
+    },
+    "MF": {
+      "sort": "",
+      "value": "Saint Martin (French part)"
+    },
+    "MG": {
+      "sort": "",
+      "value": "Madagascar"
+    },
+    "MK": {
+      "sort": "",
+      "value": "Macedonia"
+    },
+    "ML": {
+      "sort": "",
+      "value": "Mali"
+    },
+    "MM": {
+      "sort": "",
+      "value": "Myanmar"
+    },
+    "MN": {
+      "sort": "",
+      "value": "Mongolia"
+    },
+    "MO": {
+      "sort": "",
+      "value": "Macau"
+    },
+    "MP": {
+      "sort": "",
+      "value": "Northern Mariana Islands"
+    },
+    "MQ": {
+      "sort": "",
+      "value": "Martinique"
+    },
+    "MR": {
+      "sort": "",
+      "value": "Mauritania"
+    },
+    "MS": {
+      "sort": "",
+      "value": "Montserrat"
+    },
+    "MT": {
+      "sort": "",
+      "value": "Malta"
+    },
+    "MU": {
+      "sort": "",
+      "value": "Mauritius"
+    },
+    "MV": {
+      "sort": "",
+      "value": "Maldives"
+    },
+    "MW": {
+      "sort": "",
+      "value": "Malawi"
+    },
+    "MX": {
+      "sort": "",
+      "value": "Mexico"
+    },
+    "MY": {
+      "currency_name": "Malaysia Ringgit",
+      "sort": "",
+      "value": "Malaysia"
+    },
+    "MZ": {
+      "sort": "",
+      "value": "Mozambique"
+    },
+    "NA": {
+      "sort": "",
+      "value": "Namibia"
+    },
+    "NC": {
+      "sort": "",
+      "value": "New Caledonia"
+    },
+    "NE": {
+      "sort": "",
+      "value": "Niger"
+    },
+    "NF": {
+      "sort": "",
+      "value": "Norfolk Island"
+    },
+    "NG": {
+      "sort": "",
+      "value": "Nigeria"
+    },
+    "NI": {
+      "sort": "",
+      "value": "Nicaragua"
+    },
+    "NL": {
+      "sort": "",
+      "value": "Netherlands"
+    },
+    "NO": {
+      "sort": "",
+      "value": "Norway"
+    },
+    "NP": {
+      "sort": "",
+      "value": "Nepal"
+    },
+    "NR": {
+      "sort": "",
+      "value": "Nauru"
+    },
+    "NZ": {
+      "sort": "",
+      "value": "New Zealand"
+    },
+    "OM": {
+      "sort": "",
+      "value": "Oman"
+    },
+    "PA": {
+      "sort": "",
+      "value": "Panama"
+    },
+    "PE": {
+      "sort": "",
+      "value": "Peru"
+    },
+    "PF": {
+      "sort": "",
+      "value": "French Polynesia"
+    },
+    "PG": {
+      "sort": "",
+      "value": "Papua New Guinea"
+    },
+    "PH": {
+      "sort": "",
+      "value": "Philippines"
+    },
+    "PK": {
+      "sort": "",
+      "value": "Pakistan"
+    },
+    "PL": {
+      "sort": "",
+      "value": "Poland"
+    },
+    "PR": {
+      "sort": "",
+      "value": "Puerto Rico"
+    },
+    "PS": {
+      "sort": "",
+      "value": "Palestine, State of"
+    },
+    "PT": {
+      "sort": "",
+      "value": "Portugal"
+    },
+    "PW": {
+      "sort": "",
+      "value": "Palau"
+    },
+    "PY": {
+      "sort": "",
+      "value": "Paraguay"
+    },
+    "QA": {
+      "sort": "",
+      "value": "Qatar"
+    },
+    "RE": {
+      "sort": "",
+      "value": "Reunion"
+    },
+    "RO": {
+      "sort": "",
+      "value": "Romania"
+    },
+    "RS": {
+      "sort": "",
+      "value": "Serbia"
+    },
+    "RU": {
+      "sort": "",
+      "value": "Russia"
+    },
+    "RW": {
+      "sort": "",
+      "value": "Rwanda"
+    },
+    "SA": {
+      "sort": "",
+      "value": "Saudi Arabia"
+    },
+    "SC": {
+      "sort": "",
+      "value": "Seychelles"
+    },
+    "SD": {
+      "sort": "",
+      "value": "Sudan"
+    },
+    "SE": {
+      "sort": "",
+      "value": "Sweden"
+    },
+    "SG": {
+      "currency_name": "Singapore Dollar",
+      "sort": "",
+      "value": "Singapore"
+    },
+    "SH": {
+      "sort": "",
+      "value": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "SI": {
+      "sort": "",
+      "value": "Slovenia"
+    },
+    "SK": {
+      "sort": "",
+      "value": "Slovakia"
+    },
+    "SL": {
+      "sort": "",
+      "value": "Sierra Leone"
+    },
+    "SM": {
+      "sort": "",
+      "value": "San Marino (Republic of)"
+    },
+    "SN": {
+      "sort": "",
+      "value": "Senegal"
+    },
+    "SR": {
+      "sort": "",
+      "value": "Suriname"
+    },
+    "SV": {
+      "sort": "",
+      "value": "El Salvador"
+    },
+    "SY": {
+      "sort": "",
+      "value": "Syria"
+    },
+    "SZ": {
+      "sort": "",
+      "value": "Swaziland"
+    },
+    "TC": {
+      "sort": "",
+      "value": "Turks and Caicos Islands"
+    },
+    "TD": {
+      "sort": "",
+      "value": "Chad"
+    },
+    "TG": {
+      "sort": "",
+      "value": "Togo"
+    },
+    "TH": {
+      "sort": "",
+      "value": "Thailand"
+    },
+    "TJ": {
+      "sort": "",
+      "value": "Tajikistan"
+    },
+    "TL": {
+      "sort": "",
+      "value": "Timor-Leste"
+    },
+    "TM": {
+      "sort": "",
+      "value": "Turkmenistan"
+    },
+    "TN": {
+      "sort": "",
+      "value": "Tunisia"
+    },
+    "TO": {
+      "sort": "",
+      "value": "Tonga"
+    },
+    "TR": {
+      "sort": "",
+      "value": "Turkey"
+    },
+    "TT": {
+      "sort": "",
+      "value": "Trinidad &amp; Tobago"
+    },
+    "TW": {
+      "sort": "",
+      "value": "Taiwan"
+    },
+    "TZ": {
+      "sort": "",
+      "value": "Tanzania"
+    },
+    "UA": {
+      "sort": "",
+      "value": "Ukraine"
+    },
+    "UG": {
+      "sort": "",
+      "value": "Uganda"
+    },
+    "US": {
+      "currency_name": "US Dollar",
+      "sort": "",
+      "value": "United States"
+    },
+    "UY": {
+      "sort": "",
+      "value": "Uruguay"
+    },
+    "UZ": {
+      "sort": "",
+      "value": "Uzbekistan"
+    },
+    "VC": {
+      "sort": "",
+      "value": "Saint Vincent and the Grenadines"
+    },
+    "VE": {
+      "sort": "",
+      "value": "Venezuela"
+    },
+    "VG": {
+      "sort": "",
+      "value": "British Virgin Islands"
+    },
+    "VI": {
+      "sort": "",
+      "value": "Virgin Islands (USA)"
+    },
+    "VN": {
+      "sort": "",
+      "value": "Vietnam"
+    },
+    "VU": {
+      "sort": "",
+      "value": "Vanuatu"
+    },
+    "WS": {
+      "sort": "",
+      "value": "Samoa"
+    },
+    "YE": {
+      "sort": "",
+      "value": "Yemen Republic"
+    },
+    "YT": {
+      "sort": "",
+      "value": "Mayotte"
+    },
+    "ZA": {
+      "sort": "",
+      "value": "South Africa"
+    },
+    "ZM": {
+      "sort": "",
+      "value": "Zambia"
+    },
+    "ZW": {
+      "sort": "",
+      "value": "Zimbabwe"
+    }
+  },
+  "country_location": "Country",
+  "create_account": "Create new account",
+  "create_fail": "Failed. Please try again.",
+  "create_order_success": "Create order success",
+  "create_shop": "Create Shop",
+  "create_success": "Created",
+  "create_time": "Create Time",
+  "credentials_number": "Credentials Number",
+  "credit_card_title": "Credit / debit card",
+  "credit_title": "Credit: ",
+  "currency_title": "Currency",
+  "currency_unit": "currency",
+  "current_password": "Current Password",
+  "current_storage_count": "current storage count",
+  "current_template": "Current Template",
+  "default_account": "Default Account",
+  "default_address": "Default Address",
+  "default_template": "Default Template",
+  "delete": "Delete",
+  "delete_fail": "Delete fail，please try again.",
+  "delete_success": "Successfully deleted",
+  "deliver_address": "Consignee Address",
+  "description": "Description",
+  "description_title": "Description: ",
+  "discount": "Discount",
+  "discount_expiry_tip": "You can not edit the Merchant Fees before {}",
+  "display_currency": "Display Currency",
+  "distance_description": "Distance {}",
+  "done": "Done",
+  "done_trade_record": "Transaction record",
+  "download_app": "Download Fulda Mall Now!",
+  "download_fulda": "Download Fulda Mall",
+  "download_fulda_at_once": "Download Fulda Mall Now.",
+  "edit": "Edit",
+  "edit_address": "Edit Address",
+  "email": "Email",
+  "empty": "Null",
+  "empty_address_data": "Please enter address",
+  "empty_fav_good": "You haven't favorite any goods",
+  "empty_fav_shop": "You haven't favorite any shop",
+  "empty_fulda_record": "No Fulda record",
+  "empty_goods": "There is no goods",
+  "empty_recommend_list": "No recommendation list",
+  "empty_ref_data": "No referral data",
+  "empty_search_shop_list": "There are no eligible shops",
+  "empty_shopping_cart": "There aren't any goods in the cart",
+  "empty_shopping_cart_order": "you haven't selected any goods",
+  "empty_top_up_card_list": "Top up card list is empty",
+  "empty_trade_record": "No transaction record",
+  "empty_wait_comment_order": "You don't have any wait comment orders",
+  "empty_wait_confirm_order": "You don't have any wait confirm orders",
+  "empty_wait_paid_order": "You don't have any wait paid orders",
+  "empty_wait_ship_order": "You don't have any wait ship orders",
+  "empty_withdraw_account_data": "There is no withdrawal account record",
+  "empty_withdraw_record": "There is no withdraw record",
+  "end_time": "End Time",
+  "entity": "Entity",
+  "expiry_data": "Expiry Date",
+  "express_delivery": "express delivery",
+  "failed_to_get_location": "Failed to get location",
+  "favorite": "Favorite",
+  "favorite_fail": "Failed",
+  "favorite_success": "Successed",
+  "female": "Female",
+  "few_seconds_ago": "Few seconds ago",
+  "find_back_account_or_password": "Find Password",
+  "find_back_by_email": "Find By Email",
+  "find_back_by_phone": "Find By Mobile",
+  "find_back_pay_password": "Retrieve Payment Password",
+  "find_email_link_and_reset": "Check the link in the email, you can reset the password after activation",
+  "finish": "Finish",
+  "forget_password": "Forget Password",
+  "forgot_password": "Forget Password",
+  "forgot_pay_password": "Forget Payment Password",
+  "fulda_balance": "FRC",
+  "fulda_discount_setting": "Merchant Fees",
+  "fulda_mall": "Fulda Mall",
+  "fulda_pay": "Fulda Pay",
+  "fulda_record": "Fulda Record",
+  "fulda_rewards_credit_support_value": "Discount {}%",
+  "fulda_use_able_cash": "Merchant Fees",
+  "get_amount": "Amount",
+  "get_token": "Get Verify Code",
+  "get_verify_code": "Get verification code",
+  "get_verify_code_success": "Successfully obtained verification code",
+  "give_me_comment": "Comment",
+  "good": "Good",
+  "good_comment": "Praise",
+  "good_rate": "Good Rate",
+  "goods": "Goods",
+  "goods_comment": "Good",
+  "goods_detail": "Goods Detail",
+  "goods_list": "Goods List",
+  "goods_match_with_description": "Goods match with description",
+  "goods_qrcode": "Goods QR Code",
+  "home": "Home",
+  "id_number": "ID Number",
+  "input_bank_account_again": "Fill in the bank account detail again",
+  "input_paid_password": "Enter the payment password",
+  "just_now": "Just Now",
+  "lat_and_lon": "Lat & Lon",
+  "location": "Location",
+  "location_choose_title": "Select Location",
+  "location_select": "Select Location",
+  "login": "Login",
+  "login_by_other_account": "Login by other account",
+  "login_tip": "To see more, please log in!",
+  "logout_current_account": "Logout Current Account",
+  "logout_success": "Logout successfully",
+  "luck_wheel": "Lucky Wheel",
+  "lucky_wheel_result_tip": "Congratulations, you got it: {}",
+  "main_business": "Main Business",
+  "main_business_title": "Main Business: ",
+  "main_tab": {
+    "first": "Main",
+    "me": "Me",
+    "search": "Search",
+    "shopping_cart": "Cart"
+  },
+  "male": "Male",
+  "manage": "Manage",
+  "master_card_title": "MasterCard",
+  "material": "Material",
+  "min_discount_tip": "The online shop type min discount rate is 10% & max discount is 100%; the entity shop type min discount rate is 5% & max discount is 100%",
+  "mobile": "Mobile",
+  "mobile_email": "Mobile | Email",
+  "mobile_number": "Mobile Number",
+  "mobile_phone_recharge": "Phone Recharge",
+  "modify_info_tip": "If you have completed the following information, please fill in all the information below.",
+  "money": "Amount",
+  "more": "More",
+  "more_goods_tip": "For more goods or shops please go to the 'Search' page",
+  "my_avatar": "My Avatar",
+  "my_comment": "my_comment",
+  "my_favorites": "My Favorites",
+  "my_id_card": "My Name Card",
+  "my_id_photo": "My ID Photo",
+  "my_invite": "My Invitation",
+  "my_name_card": "My Name Card",
+  "my_orders": "My Orders",
+  "my_tools": "My Tools",
+  "my_wallet": "My Wallet",
+  "name": "Name",
+  "name_card": "Name Card",
+  "navigator": "Navigator",
+  "network_carriers": "Network Carriers",
+  "new_password": "New Password",
+  "next": "Next",
+  "next_step": "Next Step",
+  "no_internet_connection": "No internet connection",
+  "no_way_to_find_pay_pswd": "Please bind your phone number or mailbox to reset payment password",
+  "no_way_to_find_pswd": "Please bind your phone number or mailbox to reset password",
+  "normal": "Normal",
+  "normal_shop": "Normal Shop",
+  "not_enough_balance": "Insufficient balance, please use a third party payment",
+  "not_need_input_current_password_when_first_time": " * Not need to input current password for the first time",
+  "null": "Null",
+  "one_day_ago": "1 day ago",
+  "one_hour_ago": "1 hour ago",
+  "one_min_ago": "1 min ago",
+  "one_week_ago": "1 week ago",
+  "online": "Online",
+  "order_list": "Goods list",
+  "ordinary_mail": "ordinary mail",
+  "original_price": "Original price",
+  "other_deliver_address": "Other consignee address",
+  "output_business_category_business_address": "Please enter shop , category ,district and address",
+  "packet_type": "Packet type",
+  "paid_later": "Paid Later",
+  "paid_password": "Payment Password",
+  "paid_password_width_too_short": "Payment password is too short",
+  "paid_success": "Paid success",
+  "password": "Password",
+  "password_and_currency": "Password And Currency",
+  "password_must_same": "Password must be the same",
+  "password_not_the_same": "Password must be the same",
+  "pay": "Pay",
+  "people_count": "Count",
+  "personal_info": "Personal Info",
+  "phone": "Phone",
+  "phone_or_email": "Mobile | Email",
+  "photo_album": "Photo Album",
+  "plz_finish_info_below": "Please fill in all the information below",
+  "plz_input_account_no": "Please enter your bank account number",
+  "plz_input_address": "Please enter address",
+  "plz_input_amount": "Please enter amount",
+  "plz_input_area": "Please select area",
+  "plz_input_bank_account_name": "Please enter bank account name",
+  "plz_input_bank_name": "Please enter bank name",
+  "plz_input_card_number": "Please input card number",
+  "plz_input_close_reason": "Please enter closure reason",
+  "plz_input_comment": "Please input your comment",
+  "plz_input_correct_amount": "Please enter correct amount",
+  "plz_input_current_password": "Please enter current password",
+  "plz_input_cvv": "Please input CVV",
+  "plz_input_email": "Please enter email",
+  "plz_input_expiry_date": "Please input expiry date",
+  "plz_input_id_number": "Please enter ID number",
+  "plz_input_mobile": "Please enter mobile number",
+  "plz_input_mobile_or_email": "Please enter mobile or email",
+  "plz_input_name": "Please enter user name",
+  "plz_input_new_password": "Please enter new password",
+  "plz_input_paid_password": "Please enter pay password",
+  "plz_input_password": "Please enter password",
+  "plz_input_phone": "Please enter phone number",
+  "plz_input_phone_email": "Please enter mobile or email",
+  "plz_input_postcode": "Please enter postcode",
+  "plz_input_recipient": "Please enter recipient name",
+  "plz_input_shop_address": "Please enter shop's address",
+  "plz_input_shop_company_register_number": "Please enter company registration number",
+  "plz_input_shop_description": "Please enter shop's description",
+  "plz_input_shop_email": "Please enter shop's email",
+  "plz_input_shop_frc_discount": "Please enter shop's FRC discount",
+  "plz_input_shop_id_no": "Please enter shop's id number",
+  "plz_input_shop_main_business": "Please enter shop's main business",
+  "plz_input_shop_mobile": "Please enter shop's mobile",
+  "plz_input_shop_owner_name": "Please enter shop owner's name",
+  "plz_input_shop_postal_code": "Please enter shop's postal code",
+  "plz_input_shop_remark": "Please enter remark",
+  "plz_input_shop_telephone": "Please enter shop's phone number",
+  "plz_input_token": "Please enter verification code",
+  "plz_input_top_up_amount": "Please enter top up amount",
+  "plz_input_user_name_and_password": "Please enter user name and password",
+  "plz_input_verify_code": "Please enter verification code",
+  "plz_input_wechat_appid": "Please enter Wechat ID",
+  "plz_input_wehcat_appsecret": "Please enter Wechat APP SECRET",
+  "plz_login_email_in_24_hour": "Please log in to the mailbox within 24 hours",
+  "plz_select": "Please select",
+  "plz_select_account": "Account select",
+  "plz_select_country_location": "Please select Country",
+  "plz_select_gender": "Please select gender",
+  "plz_select_goods_count": "Please select the number of items",
+  "plz_select_network_carriers": "Please select Network Carriers",
+  "plz_select_withdraw_account": "Please select withdrawal account",
+  "plz_set_description": "Please enter description",
+  "plz_set_discount_percentage": "Please set merchant fees",
+  "plz_set_main_business": "Please key main business",
+  "plz_set_phone": "Please key phone number",
+  "plz_set_shop_name": "Please key shop name",
+  "postcode": "Postcode",
+  "primary": "Primary",
+  "qr_pay": "QR Pay",
+  "qr_pay_success": "QR pay successful",
+  "qrcode_not_valid": "Unable to detect QR code , please try other methods",
+  "receipt": "Receipt",
+  "recipient": "Recipient",
+  "recipient_phone": "Recipient Phone",
+  "recommend_business": "Recommended Shops",
+  "recommend_frc_service": "Hot FRC Goods",
+  "recommend_list": "Recommended List",
+  "recommend_service": "Recommended Service",
+  "register": "Register",
+  "register_number": "Register Number",
+  "remark": "Remark",
+  "reset_email_sent": "Reset link have been send to your email",
+  "reset_login_password": "Reset Login Password",
+  "s_day_ago": "{} day ago",
+  "s_hour_ago": "{} hour ago",
+  "s_min_ago": "{} min ago",
+  "s_week_ago": "{} week ago",
+  "sales": "Sales",
+  "save": "Save",
+  "save_failed": "Failed to save:",
+  "save_picture": "Save Picture",
+  "save_success": "Successfully saved",
+  "scan": "Scan",
+  "scan_pay_tip": "Let user to open the 'Scan' function to make payment",
+  "scan_tips": "Focus the QR code within the box, it will automatically scan",
+  "search": "Search",
+  "search_by_category": "Find By Category",
+  "search_country_tip": "Please input country keyword",
+  "search_goods_result": "Find out {} goods",
+  "search_history_title": "Search History Keyword",
+  "search_shop_result": "Find out {} shops",
+  "search_tip": "Please key shop, category, circle, location",
+  "select_all": "Select All",
+  "select_area": "Select Area",
+  "select_deliver_address": "Select Consignee Address",
+  "select_withdraw_account": "Select Withdrawal Account",
+  "seller_info": "Seller Info",
+  "send_success": "Send successfully",
+  "serial_number": "Serial Number",
+  "service_account_title": "Service Account: ",
+  "set_amount": "Set Amount",
+  "set_as_primary": "Set as primary",
+  "set_default": "Set As Default",
+  "set_email": "Email Setting",
+  "set_fail": "Setting failed，please try again",
+  "set_success": "Done",
+  "setting": "Setting",
+  "settle_with_merchant_currency": "Payment in merchant currency",
+  "settle_with_recipient_currency": "Payment in recipient currency",
+  "settlement": "Check Out",
+  "sex": "Sex",
+  "share_goods": "Share Goods",
+  "share_shop": "Share Shop",
+  "ship_goods": "Confirm shipping",
+  "ship_speed_of_shop_owner": "Ship speed",
+  "shipping": "shipping",
+  "shop": "Shop",
+  "shop_amount_include_shipping": "Amount of this shop (shipping included)",
+  "shop_banner": "Shop Banner",
+  "shop_category": "Shop Category",
+  "shop_credit_title": "Shop Credit",
+  "shop_customer_service_rate": "Customer Service Rate",
+  "shop_delivery_speed_rate": "Delivery Speed Rate",
+  "shop_detail": "Shop Detail",
+  "shop_discount": "Shop discount",
+  "shop_goods_match_rate": "Goods Match Rate",
+  "shop_info": "Shop Info",
+  "shop_logo": "Shop Logo",
+  "shop_name": "Shop Name",
+  "shop_orders": "Shop Orders",
+  "shop_owner_name": "Shop Owner's Name",
+  "shop_qrcode": "Shop QR Code",
+  "shop_type": "Shop Type",
+  "shop_type_data": {
+    "child": {
+      "1": "Online Shopping Mall",
+      "2": "Physical Store"
+    },
+    "title": "Shopping Type"
+  },
+  "shop_type_data_short": {
+    "child": {
+      "1": "Online",
+      "2": "Offline"
+    },
+    "title": "Shopping Type"
+  },
+  "shopping_cart": "Cart",
+  "sorting_field_data": {
+    "child": {
+      "registerDate": "Register Date",
+      "shopLevel": "Shop Level"
+    },
+    "title": "Filter"
+  },
+  "start_time": "Start Time: ",
+  "stop_time": "Stop Time: ",
+  "store_can_use_fulda_cash": "Accept Fulda Cash",
+  "street_address": "Address",
+  "submit": "Submit",
+  "submit_fail": "submit fail,please try again later",
+  "submit_open_shop_tips": "By clicking 'Create Shop', you agree to the agreement in {}",
+  "submit_order": "Submit order",
+  "submit_success": "submit success",
+  "token": "Verify Code",
+  "top_up": "Top Up",
+  "top_up_card_list": "Top Up Card List",
+  "top_up_cord_info": "Top Up Card List",
+  "top_up_failed": "Failed to top up",
+  "top_up_method": "Top up method",
+  "top_up_success": "Top up successful",
+  "total_price": "Total",
+  "total_s_goods_should_paid_s": "Totally {} goods, should paid {}",
+  "trade_fail": "Failed",
+  "trade_order_number": "Transaction Number",
+  "trade_reason": "Transaction Reason",
+  "trade_record": "Transaction Record",
+  "trade_success": "Success",
+  "trade_type": "Transaction Type",
+  "transfer": "Transfer",
+  "transfer_record": "Transfer Record",
+  "transfer_success": "Transfer successful",
+  "two_time_password_must_be_the_same": "Password must be the same",
+  "un_favorite": "Cancel Favorite",
+  "un_favorite_fail": "Cancel favorite failed",
+  "un_favorite_success": "Cancel favorite success",
+  "un_paid": "Unpaid",
+  "un_pass_verify": "Unverified",
+  "union_pay": "Union Pay",
+  "update_fail": "Update fail , please try again",
+  "update_success": "Update success",
+  "upload_banner": "Upload Banner",
+  "upload_credentials": "Upload Credentials",
+  "upload_id_photo": "Upload ID Photo",
+  "upload_license": "Upload License",
+  "use_third_party_paid": "Please use third party payment",
+  "user": "User",
+  "user_agreement": "User Agreement",
+  "user_agreement_detail": "By clicking 'Next Step', you agree to the agreement in {}",
+  "user_agreement_title": "User Agreement",
+  "user_password": "User Password",
+  "verify_code": "Verify Code",
+  "verify_email": "Verify Email",
+  "verify_info_sent_to_email": "Verification email has been send to your inbox",
+  "verify_phone": "Verify Mobile",
+  "verify_success": "Verify Success",
+  "version": "Version:",
+  "view_order": "View orders",
+  "visa_title": "Visa",
+  "wait_comment": "Wait Comment",
+  "wait_confirm": "Wait Confirm",
+  "wait_deliver": "Awaiting Delivery",
+  "wait_deliver_simple": "Wait Deliver",
+  "wait_paid": "Awaiting Payment",
+  "way": "Way",
+  "withdraw": "Withdraw",
+  "withdraw_account_edit": "Withdraw Account Edit",
+  "withdraw_account_setting": "Withdraw Account",
+  "withdraw_amount": "Withdraw",
+  "withdraw_amount_title": "Withdraw Amount",
+  "withdraw_record": "Withdraw Record",
+  "withdraw_success": "Withdraw success",
+  "withdraw_time": "Withdrawal Time",
+  "withdraw_tips": "You will be required to pay a fee of 1% for each transaction to a third party, for any withdrawal amount of cash balance in your mall account to your bank card or other payment platform.",
+  "without_shipping_cost": "without shipping cost",
+  "you_have_qr_pay_to_some_one": "You have make a QR pay to '{}': {}",
+  "you_have_transfer_to_some_one": "You have transfer to '{}': {}",
+  "you_need_to_set_paid_password_first": "You need to set paid password first",
+  "your_balance": "Your Balance",
+  "your_select_s_count_is_s": "Your select is {} , count is {}"
+}

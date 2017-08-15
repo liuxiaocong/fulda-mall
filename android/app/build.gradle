@@ -1,0 +1,340 @@
+apply plugin: "com.android.application"
+
+import com.android.build.OutputFile
+
+/**
+ * The react.gradle file registers a task for each build variant (e.g. bundleDebugJsAndAssets
+ * and bundleReleaseJsAndAssets).
+ * These basically call `react-native bundle` with the correct arguments during the Android build
+ * cycle. By default, bundleDebugJsAndAssets is skipped, as in debug/dev mode we prefer to load the
+ * bundle directly from the development server. Below you can see all the possible configurations
+ * and their defaults. If you decide to add a configuration block, make sure to add it before the
+ * `apply from: "../../node_modules/react-native/react.gradle"` line.
+ *
+ * project.ext.react = [
+ *   // the name of the generated asset file containing your JS bundle
+ *   bundleAssetName: "index.android.bundle",
+ *
+ *   // the entry file for bundle generation
+ *   entryFile: "index.android.js",
+ *
+ *   // whether to bundle JS and assets in debug mode
+ *   bundleInDebug: false,
+ *
+ *   // whether to bundle JS and assets in release mode
+ *   bundleInRelease: true,
+ *
+ *   // whether to bundle JS and assets in another build variant (if configured).
+ *   // See http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Build-Variants
+ *   // The configuration property can be in the following formats
+ *   //         'bundleIn${productFlavor}${buildType}'
+ *   //         'bundleIn${buildType}'
+ *   // bundleInFreeDebug: true,
+ *   // bundleInPaidRelease: true,
+ *   // bundleInBeta: true,
+ *
+ *   // whether to disable dev mode in custom build variants (by default only disabled in release)
+ *   // for example: to disable dev mode in the staging build type (if configured)
+ *   devDisabledInStaging: true,
+ *   // The configuration property can be in the following formats
+ *   //         'devDisabledIn${productFlavor}${buildType}'
+ *   //         'devDisabledIn${buildType}'
+ *
+ *   // the root of your project, i.e. where "package.json" lives
+ *   root: "../../",
+ *
+ *   // where to put the JS bundle asset in debug mode
+ *   jsBundleDirDebug: "$buildDir/intermediates/assets/debug",
+ *
+ *   // where to put the JS bundle asset in release mode
+ *   jsBundleDirRelease: "$buildDir/intermediates/assets/release",
+ *
+ *   // where to put drawable resources / React Native assets, e.g. the ones you use via
+ *   // require('./image.png')), in debug mode
+ *   resourcesDirDebug: "$buildDir/intermediates/res/merged/debug",
+ *
+ *   // where to put drawable resources / React Native assets, e.g. the ones you use via
+ *   // require('./image.png')), in release mode
+ *   resourcesDirRelease: "$buildDir/intermediates/res/merged/release",
+ *
+ *   // by default the gradle tasks are skipped if none of the JS files or assets change; this means
+ *   // that we don't look at files in android/ or ios/ to determine whether the tasks are up to
+ *   // date; if you have any other folders that you want to ignore for performance reasons (gradle
+ *   // indexes the entire tree), add them here. Alternatively, if you have JS files in android/
+ *   // for example, you might want to remove it from here.
+ *   inputExcludes: ["android/**", "ios/**"],
+ *
+ *   // override which node gets called and with what additional arguments
+ *   nodeExecutableAndArgs: ["node"],
+ *
+ *   // supply additional arguments to the packager
+ *   extraPackagerArgs: []
+ * ]
+ */
+
+apply from: "../../node_modules/react-native/react.gradle"
+
+/**
+ * Set this to true to create two separate APKs instead of one:
+ *   - An APK that only works on ARM devices
+ *   - An APK that only works on x86 devices
+ * The advantage is the size of the APK is reduced by about 4MB.
+ * Upload all the APKs to the Play Store and people will download
+ * the correct one based on the CPU architecture of their device.
+ */
+def enableSeparateBuildPerCPUArchitecture = false
+
+/**
+ * Run Proguard to shrink the Java bytecode in release builds.
+ */
+def enableProguardInReleaseBuilds = true
+
+
+repositories {
+    maven { url 'https://github.com/500px/500px-android-blur/raw/master/releases/' }
+}
+
+repositories {
+    maven { url "https://jitpack.io" }
+}
+
+buildscript {
+    repositories {
+        maven { url 'https://github.com/500px/500px-android-blur/raw/master/releases/' }
+    }
+    dependencies {
+        classpath 'com.fivehundredpx:blurringview:1.0.0'
+    }
+}
+
+android {
+    //noinspection GroovyAssignabilityCheck
+    compileSdkVersion rootProject.compileSdkVersion
+    //noinspection GroovyAssignabilityCheck
+    buildToolsVersion rootProject.buildToolsVersion
+
+    defaultConfig {
+        applicationId "com.fulda.fuldamallstage"
+        //noinspection GroovyAssignabilityCheck
+        minSdkVersion rootProject.minSdkVersion
+        //noinspection GroovyAssignabilityCheck
+        targetSdkVersion rootProject.targetSdkVersion
+        vectorDrawables.useSupportLibrary = true
+        renderscriptTargetApi 18
+        renderscriptSupportModeEnabled true
+
+        versionCode 11
+        versionName "1.0.4"
+        ndk {
+            abiFilters "armeabi-v7a", "x86"
+        }
+
+        multiDexEnabled true
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.outputFile = new File(
+                    output.outputFile.parent,
+                    output.outputFile.name.replace("app", "fuldamall"))
+        }
+    }
+
+    signingConfigs {
+        debugConfig {
+            storeFile file("../distribution/debug.keystore")
+            storePassword "******"
+            keyAlias "******"
+            keyPassword "******"
+        }
+
+        releaseConfig {
+            storeFile file("../distribution/fulda.keystore")
+            storePassword "******"
+            keyAlias "******"
+            keyPassword "******"
+        }
+    }
+
+    allprojects {
+        afterEvaluate { project ->
+            def propsFile = rootProject.file('distribution/debugkeystore.properties')
+            def configName = 'debugConfig'
+
+            if (propsFile.exists() && android.signingConfigs.hasProperty(configName)) {
+                def props = new Properties()
+                props.load(new FileInputStream(propsFile))
+                android.signingConfigs[configName].storePassword = props['storePassword']
+                android.signingConfigs[configName].keyAlias = props['keyAlias']
+                android.signingConfigs[configName].keyPassword = props['keyPassword']
+            }
+
+            propsFile = rootProject.file('distribution/fuldakeystore.properties')
+            configName = 'releaseConfig'
+
+            if (propsFile.exists() && android.signingConfigs.hasProperty(configName)) {
+                def props = new Properties()
+                props.load(new FileInputStream(propsFile))
+                android.signingConfigs[configName].storePassword = props['storePassword']
+                android.signingConfigs[configName].keyAlias = props['keyAlias']
+                android.signingConfigs[configName].keyPassword = props['keyPassword']
+            }
+        }
+    }
+
+    splits {
+        abi {
+            reset()
+            enable enableSeparateBuildPerCPUArchitecture
+            universalApk false  // If true, also generate a universal APK
+            include "armeabi-v7a", "x86"
+        }
+    }
+
+    sourceSets {
+        main {
+            res.srcDirs = ['src/main/res', 'src/main/res_rct']
+            assets.srcDirs = ['src/main/assets', 'src/main/assets_rct']
+        }
+
+        StageEnv.res.srcDirs = ['src/main/res_stage']
+        ProductionEnv.res.srcDirs = ['src/main/res_production']
+        StoreEnv.res.srcDirs = ['src/main/res_production']
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+
+//        disable 'InconsistentArrays', 'DefaultLocale', 'OldTargetApi', 'GradleOverrides', 'MissingTranslation', 'UnusedResources', 'GoogleAppIndexingWarning'
+    }
+
+    packagingOptions {
+        exclude 'META-INF/rxjava.properties'
+    }
+
+    productFlavors {
+        StageEnv {
+            applicationId 'com.fulda.fuldamallstage'
+
+            manifestPlaceholders = [
+                    facebook_application_id : "395037274205163",
+                    support_hockapp_check_update : "true",
+                    support_aws_check_update : "false",
+            ]
+        }
+
+        ProductionEnv {
+            applicationId 'com.fulda.fuldamall'
+
+            manifestPlaceholders = [
+                    facebook_application_id : "395079980867559",
+                    support_hockapp_check_update : "true",
+                    support_aws_check_update : "false",
+            ]
+        }
+
+        StoreEnv {
+            applicationId 'com.fulda.fuldamall'
+
+            manifestPlaceholders = [
+                    facebook_application_id : "395079980867559",
+                    support_hockapp_check_update : "false",
+                    support_aws_check_update : "true",
+            ]
+        }
+    }
+
+
+    buildTypes {
+
+        debug {
+            signingConfig signingConfigs.debugConfig
+
+            versionNameSuffix getDate()
+        }
+
+        release {
+            minifyEnabled enableProguardInReleaseBuilds
+
+            signingConfig signingConfigs.releaseConfig
+
+            proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
+
+            versionNameSuffix getDate()
+        }
+    }
+    // applicationVariants are e.g. debug, release
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            // For each separate APK per architecture, set a unique version code as described here:
+            // http://tools.android.com/tech-docs/new-build-system/user-guide/apk-splits
+            def versionCodes = ["armeabi-v7a": 1, "x86": 2]
+            def abi = output.getFilter(OutputFile.ABI)
+            if (abi != null) {  // null for the universal-debug, universal-release variants
+                output.versionCodeOverride =
+                        versionCodes.get(abi) * 1048576 + defaultConfig.versionCode
+            }
+        }
+    }
+}
+
+dependencies {
+    compile project(':react-native-google-places')
+    compile project(':react-native-push-notification')
+    compile project(':react-native-fs')
+    compile project(':react-native-image-crop-picker')
+    compile project(':react-native-linear-gradient')
+    compile project(':react-native-view-shot')
+    compile project(':react-native-svg')
+    compile project(':react-native-picker')
+    compile project(':react-native-fbsdk')
+    compile project(':react-native-device-info')
+    compile project(':react-native-i18n')
+    compile project(':react-native-spinkit')
+    compile project(':react-native-vector-icons')
+    compile project(':react-native-camera')
+    compile project(':react-native-maps')
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //noinspection GradleCompatible
+    compile "com.android.support:appcompat-v7:$rootProject.androidSupportVersion"
+    compile 'com.facebook.react:react-native:+'// From node_modules
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar'
+    compile 'net.hockeyapp.android:HockeySDK:4.1.4'
+    compile 'me.dm7.barcodescanner:zxing:1.9.3'
+    compile 'com.github.czy1121:update:1.1.1'
+    compile 'com.google.code.gson:gson:2.8.1'
+
+    compile(project(':react-native-google-places')){
+        exclude group: 'com.google.android.gms', module: 'play-services-base'
+        exclude group: 'com.google.android.gms', module: 'play-services-places'
+        exclude group: 'com.google.android.gms', module: 'play-services-location'
+    }
+    compile(project(':react-native-maps')){
+        exclude group: 'com.google.android.gms', module: 'play-services-base'
+        exclude group: 'com.google.android.gms', module: 'play-services-maps'
+    }
+
+    compile 'com.google.android.gms:play-services-base:+'
+    compile 'com.google.android.gms:play-services-places:+'
+    compile 'com.google.android.gms:play-services-location:+'
+    compile 'com.google.android.gms:play-services-maps:+'
+}
+
+// Run this once to be able to run the application with BUCK
+// puts all compile dependencies into folder libs for BUCK to use
+task copyDownloadableDepsToLibs(type: Copy) {
+    from configurations.compile
+    into 'libs'
+}
+
+static def getDate() {
+    def date = new Date()
+    def formattedDate = date.format('yyMMdd')
+
+    return "." + formattedDate + "";
+}

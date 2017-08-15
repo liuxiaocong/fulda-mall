@@ -1,0 +1,830 @@
+[
+  {
+    "CountryISOCode": "AF",
+    "MobileCode": 93
+  },
+  {
+    "CountryISOCode": "AL",
+    "MobileCode": 355
+  },
+  {
+    "CountryISOCode": "DZ",
+    "MobileCode": 213
+  },
+  {
+    "CountryISOCode": "AD",
+    "MobileCode": 376
+  },
+  {
+    "CountryISOCode": "AO",
+    "MobileCode": 244
+  },
+  {
+    "CountryISOCode": "AI",
+    "MobileCode": 1264
+  },
+  {
+    "CountryISOCode": "AG",
+    "MobileCode": 1268
+  },
+  {
+    "CountryISOCode": "AR",
+    "MobileCode": 54
+  },
+  {
+    "CountryISOCode": "AM",
+    "MobileCode": 374
+  },
+  {
+    "CountryISOCode": "AW",
+    "MobileCode": 297
+  },
+  {
+    "CountryISOCode": "AU",
+    "MobileCode": 61
+  },
+  {
+    "CountryISOCode": "AT",
+    "MobileCode": 43
+  },
+  {
+    "CountryISOCode": "AZ",
+    "MobileCode": 994
+  },
+  {
+    "CountryISOCode": "BS",
+    "MobileCode": 1242
+  },
+  {
+    "CountryISOCode": "BH",
+    "MobileCode": 973
+  },
+  {
+    "CountryISOCode": "BD",
+    "MobileCode": 880
+  },
+  {
+    "CountryISOCode": "BB",
+    "MobileCode": 1246
+  },
+  {
+    "CountryISOCode": "BY",
+    "MobileCode": 375
+  },
+  {
+    "CountryISOCode": "BE",
+    "MobileCode": 32
+  },
+  {
+    "CountryISOCode": "BZ",
+    "MobileCode": 501
+  },
+  {
+    "CountryISOCode": "BJ",
+    "MobileCode": 229
+  },
+  {
+    "CountryISOCode": "BM",
+    "MobileCode": 1441
+  },
+  {
+    "CountryISOCode": "BT",
+    "MobileCode": 975
+  },
+  {
+    "CountryISOCode": "BO",
+    "MobileCode": 591
+  },
+  {
+    "CountryISOCode": "BA",
+    "MobileCode": 387
+  },
+  {
+    "CountryISOCode": "BW",
+    "MobileCode": 267
+  },
+  {
+    "CountryISOCode": "BR",
+    "MobileCode": 55
+  },
+  {
+    "CountryISOCode": "BN",
+    "MobileCode": 673
+  },
+  {
+    "CountryISOCode": "BG",
+    "MobileCode": 359
+  },
+  {
+    "CountryISOCode": "BF",
+    "MobileCode": 226
+  },
+  {
+    "CountryISOCode": "BI",
+    "MobileCode": 257
+  },
+  {
+    "CountryISOCode": "KH",
+    "MobileCode": 855
+  },
+  {
+    "CountryISOCode": "CM",
+    "MobileCode": 237
+  },
+  {
+    "CountryISOCode": "CA",
+    "MobileCode": 1
+  },
+  {
+    "CountryISOCode": "CV",
+    "MobileCode": 238
+  },
+  {
+    "CountryISOCode": "KY",
+    "MobileCode": 1345
+  },
+  {
+    "CountryISOCode": "CF",
+    "MobileCode": 236
+  },
+  {
+    "CountryISOCode": "TD",
+    "MobileCode": 235
+  },
+  {
+    "CountryISOCode": "CL",
+    "MobileCode": 56
+  },
+  {
+    "CountryISOCode": "CN",
+    "MobileCode": 86,
+    "symbol": "￥",
+    "currency_code": "CNY"
+  },
+  {
+    "CountryISOCode": "CO",
+    "MobileCode": 57
+  },
+  {
+    "CountryISOCode": "KM",
+    "MobileCode": 269
+  },
+  {
+    "CountryISOCode": "CD",
+    "MobileCode": 243
+  },
+  {
+    "CountryISOCode": "CK",
+    "MobileCode": 682
+  },
+  {
+    "CountryISOCode": "CR",
+    "MobileCode": 506
+  },
+  {
+    "CountryISOCode": "HR",
+    "MobileCode": 385
+  },
+  {
+    "CountryISOCode": "CU",
+    "MobileCode": 53
+  },
+  {
+    "CountryISOCode": "CY",
+    "MobileCode": 357
+  },
+  {
+    "CountryISOCode": "CZ",
+    "MobileCode": 420
+  },
+  {
+    "CountryISOCode": "DK",
+    "MobileCode": 45
+  },
+  {
+    "CountryISOCode": "DJ",
+    "MobileCode": 253
+  },
+  {
+    "CountryISOCode": "DM",
+    "MobileCode": 1767
+  },
+  {
+    "CountryISOCode": "DO",
+    "MobileCode": 1829
+  },
+  {
+    "CountryISOCode": "EC",
+    "MobileCode": 593
+  },
+  {
+    "CountryISOCode": "EG",
+    "MobileCode": 20
+  },
+  {
+    "CountryISOCode": "SV",
+    "MobileCode": 503
+  },
+  {
+    "CountryISOCode": "GQ",
+    "MobileCode": 240
+  },
+  {
+    "CountryISOCode": "EE",
+    "MobileCode": 372
+  },
+  {
+    "CountryISOCode": "ET",
+    "MobileCode": 251
+  },
+  {
+    "CountryISOCode": "FO",
+    "MobileCode": 298
+  },
+  {
+    "CountryISOCode": "FJ",
+    "MobileCode": 679
+  },
+  {
+    "CountryISOCode": "FI",
+    "MobileCode": 358
+  },
+  {
+    "CountryISOCode": "FR",
+    "MobileCode": 33
+  },
+  {
+    "CountryISOCode": "GF",
+    "MobileCode": 594
+  },
+  {
+    "CountryISOCode": "PF",
+    "MobileCode": 689
+  },
+  {
+    "CountryISOCode": "GA",
+    "MobileCode": 241
+  },
+  {
+    "CountryISOCode": "GM",
+    "MobileCode": 220
+  },
+  {
+    "CountryISOCode": "GE",
+    "MobileCode": 995
+  },
+  {
+    "CountryISOCode": "DE",
+    "MobileCode": 49
+  },
+  {
+    "CountryISOCode": "GH",
+    "MobileCode": 233
+  },
+  {
+    "CountryISOCode": "GI",
+    "MobileCode": 350
+  },
+  {
+    "CountryISOCode": "GR",
+    "MobileCode": 30
+  },
+  {
+    "CountryISOCode": "GL",
+    "MobileCode": 299
+  },
+  {
+    "CountryISOCode": "GD",
+    "MobileCode": 1473
+  },
+  {
+    "CountryISOCode": "GP",
+    "MobileCode": 590
+  },
+  {
+    "CountryISOCode": "GU",
+    "MobileCode": 1671
+  },
+  {
+    "CountryISOCode": "GT",
+    "MobileCode": 502
+  },
+  {
+    "CountryISOCode": "GG",
+    "MobileCode": 44
+  },
+  {
+    "CountryISOCode": "GN",
+    "MobileCode": 224
+  },
+  {
+    "CountryISOCode": "GW",
+    "MobileCode": 245
+  },
+  {
+    "CountryISOCode": "GY",
+    "MobileCode": 592
+  },
+  {
+    "CountryISOCode": "HT",
+    "MobileCode": 509
+  },
+  {
+    "CountryISOCode": "HN",
+    "MobileCode": 504
+  },
+  {
+    "CountryISOCode": "HK",
+    "MobileCode": 852
+  },
+  {
+    "CountryISOCode": "HU",
+    "MobileCode": 36
+  },
+  {
+    "CountryISOCode": "IS",
+    "MobileCode": 354
+  },
+  {
+    "CountryISOCode": "IN",
+    "MobileCode": 91
+  },
+  {
+    "CountryISOCode": "ID",
+    "MobileCode": 62
+  },
+  {
+    "CountryISOCode": "IR",
+    "MobileCode": 98
+  },
+  {
+    "CountryISOCode": "IQ",
+    "MobileCode": 964
+  },
+  {
+    "CountryISOCode": "IE",
+    "MobileCode": 353
+  },
+  {
+    "CountryISOCode": "IM",
+    "MobileCode": 44
+  },
+  {
+    "CountryISOCode": "IL",
+    "MobileCode": 972
+  },
+  {
+    "CountryISOCode": "IT",
+    "MobileCode": 39
+  },
+  {
+    "CountryISOCode": "JM",
+    "MobileCode": 1876
+  },
+  {
+    "CountryISOCode": "JP",
+    "MobileCode": 81
+  },
+  {
+    "CountryISOCode": "JE",
+    "MobileCode": 44
+  },
+  {
+    "CountryISOCode": "JO",
+    "MobileCode": 962
+  },
+  {
+    "CountryISOCode": "KZ",
+    "MobileCode": 7
+  },
+  {
+    "CountryISOCode": "KI",
+    "MobileCode": 254
+  },
+  {
+    "CountryISOCode": "KR",
+    "MobileCode": 850
+  },
+  {
+    "CountryISOCode": "KW",
+    "MobileCode": 965
+  },
+  {
+    "CountryISOCode": "KG",
+    "MobileCode": 996
+  },
+  {
+    "CountryISOCode": "LA",
+    "MobileCode": 856
+  },
+  {
+    "CountryISOCode": "LV",
+    "MobileCode": 371
+  },
+  {
+    "CountryISOCode": "LB",
+    "MobileCode": 961
+  },
+  {
+    "CountryISOCode": "LS",
+    "MobileCode": 266
+  },
+  {
+    "CountryISOCode": "LR",
+    "MobileCode": 231
+  },
+  {
+    "CountryISOCode": "LY",
+    "MobileCode": 218
+  },
+  {
+    "CountryISOCode": "LI",
+    "MobileCode": 423
+  },
+  {
+    "CountryISOCode": "LT",
+    "MobileCode": 370
+  },
+  {
+    "CountryISOCode": "MO",
+    "MobileCode": 853
+  },
+  {
+    "CountryISOCode": "MK",
+    "MobileCode": 389
+  },
+  {
+    "CountryISOCode": "MG",
+    "MobileCode": 261
+  },
+  {
+    "CountryISOCode": "MW",
+    "MobileCode": 265
+  },
+  {
+    "CountryISOCode": "MY",
+    "MobileCode": 60,
+    "symbol": "RM",
+    "currency_code": "MYR"
+  },
+  {
+    "CountryISOCode": "MV",
+    "MobileCode": 960
+  },
+  {
+    "CountryISOCode": "ML",
+    "MobileCode": 223
+  },
+  {
+    "CountryISOCode": "MT",
+    "MobileCode": 356
+  },
+  {
+    "CountryISOCode": "MQ",
+    "MobileCode": 596
+  },
+  {
+    "CountryISOCode": "MR",
+    "MobileCode": 222
+  },
+  {
+    "CountryISOCode": "MU",
+    "MobileCode": 230
+  },
+  {
+    "CountryISOCode": "YT",
+    "MobileCode": 262
+  },
+  {
+    "CountryISOCode": "MX",
+    "MobileCode": 52
+  },
+  {
+    "CountryISOCode": "MD",
+    "MobileCode": 373
+  },
+  {
+    "CountryISOCode": "MC",
+    "MobileCode": 377
+  },
+  {
+    "CountryISOCode": "MN",
+    "MobileCode": 976
+  },
+  {
+    "CountryISOCode": "ME",
+    "MobileCode": 382
+  },
+  {
+    "CountryISOCode": "MS",
+    "MobileCode": 1664
+  },
+  {
+    "CountryISOCode": "MA",
+    "MobileCode": 212
+  },
+  {
+    "CountryISOCode": "MZ",
+    "MobileCode": 258
+  },
+  {
+    "CountryISOCode": "NA",
+    "MobileCode": 264
+  },
+  {
+    "CountryISOCode": "NR",
+    "MobileCode": 977
+  },
+  {
+    "CountryISOCode": "NL",
+    "MobileCode": 31
+  },
+  {
+    "CountryISOCode": "NA",
+    "MobileCode": 599
+  },
+  {
+    "CountryISOCode": "NC",
+    "MobileCode": 687
+  },
+  {
+    "CountryISOCode": "NZ",
+    "MobileCode": 64
+  },
+  {
+    "CountryISOCode": "NI",
+    "MobileCode": 505
+  },
+  {
+    "CountryISOCode": "NE",
+    "MobileCode": 227
+  },
+  {
+    "CountryISOCode": "NG",
+    "MobileCode": 234
+  },
+  {
+    "CountryISOCode": "NO",
+    "MobileCode": 47
+  },
+  {
+    "CountryISOCode": "OM",
+    "MobileCode": 968
+  },
+  {
+    "CountryISOCode": "PK",
+    "MobileCode": 92
+  },
+  {
+    "CountryISOCode": "PS",
+    "MobileCode": 970
+  },
+  {
+    "CountryISOCode": "PA",
+    "MobileCode": 507
+  },
+  {
+    "CountryISOCode": "PG",
+    "MobileCode": 675
+  },
+  {
+    "CountryISOCode": "PY",
+    "MobileCode": 595
+  },
+  {
+    "CountryISOCode": "PE",
+    "MobileCode": 51
+  },
+  {
+    "CountryISOCode": "PH",
+    "MobileCode": 63
+  },
+  {
+    "CountryISOCode": "PL",
+    "MobileCode": 48
+  },
+  {
+    "CountryISOCode": "PT",
+    "MobileCode": 351
+  },
+  {
+    "CountryISOCode": "PR",
+    "MobileCode": 1
+  },
+  {
+    "CountryISOCode": "QA",
+    "MobileCode": 974
+  },
+  {
+    "CountryISOCode": "RE",
+    "MobileCode": 262
+  },
+  {
+    "CountryISOCode": "RO",
+    "MobileCode": 40
+  },
+  {
+    "CountryISOCode": "RU",
+    "MobileCode": 7
+  },
+  {
+    "CountryISOCode": "RW",
+    "MobileCode": 250
+  },
+  {
+    "CountryISOCode": "WS",
+    "MobileCode": 685
+  },
+  {
+    "CountryISOCode": "SM",
+    "MobileCode": 378
+  },
+  {
+    "CountryISOCode": "SA",
+    "MobileCode": 966
+  },
+  {
+    "CountryISOCode": "SN",
+    "MobileCode": 221
+  },
+  {
+    "CountryISOCode": "RS",
+    "MobileCode": 381
+  },
+  {
+    "CountryISOCode": "SC",
+    "MobileCode": 248
+  },
+  {
+    "CountryISOCode": "SL",
+    "MobileCode": 232
+  },
+  {
+    "CountryISOCode": "SG",
+    "MobileCode": 65,
+    "symbol": "S$",
+    "currency_code": "SGD"
+  },
+  {
+    "CountryISOCode": "SK",
+    "MobileCode": 421
+  },
+  {
+    "CountryISOCode": "SI",
+    "MobileCode": 386
+  },
+  {
+    "CountryISOCode": "ZA",
+    "MobileCode": 27
+  },
+  {
+    "CountryISOCode": "KR",
+    "MobileCode": 82
+  },
+  {
+    "CountryISOCode": "ES",
+    "MobileCode": 34
+  },
+  {
+    "CountryISOCode": "LK",
+    "MobileCode": 94
+  },
+  {
+    "CountryISOCode": "KN",
+    "MobileCode": 1869
+  },
+  {
+    "CountryISOCode": "SL",
+    "MobileCode": 1758
+  },
+  {
+    "CountryISOCode": "VG",
+    "MobileCode": 1784
+  },
+  {
+    "CountryISOCode": "SD",
+    "MobileCode": 249
+  },
+  {
+    "CountryISOCode": "SR",
+    "MobileCode": 597
+  },
+  {
+    "CountryISOCode": "SZ",
+    "MobileCode": 268
+  },
+  {
+    "CountryISOCode": "SE",
+    "MobileCode": 46
+  },
+  {
+    "CountryISOCode": "CH",
+    "MobileCode": 41
+  },
+  {
+    "CountryISOCode": "SY",
+    "MobileCode": 963
+  },
+  {
+    "CountryISOCode": "TW",
+    "MobileCode": 886
+  },
+  {
+    "CountryISOCode": "TJ",
+    "MobileCode": 992
+  },
+  {
+    "CountryISOCode": "TZ",
+    "MobileCode": 255
+  },
+  {
+    "CountryISOCode": "TH",
+    "MobileCode": 66
+  },
+  {
+    "CountryISOCode": "TL",
+    "MobileCode": 670
+  },
+  {
+    "CountryISOCode": "TO",
+    "MobileCode": 676
+  },
+  {
+    "CountryISOCode": "TT",
+    "MobileCode": 1868
+  },
+  {
+    "CountryISOCode": "TN",
+    "MobileCode": 216
+  },
+  {
+    "CountryISOCode": "TR",
+    "MobileCode": 90
+  },
+  {
+    "CountryISOCode": "TM",
+    "MobileCode": 993
+  },
+  {
+    "CountryISOCode": "TC",
+    "MobileCode": 1649
+  },
+  {
+    "CountryISOCode": "UA",
+    "MobileCode": 380
+  },
+  {
+    "CountryISOCode": "AE",
+    "MobileCode": 971
+  },
+  {
+    "CountryISOCode": "GB",
+    "MobileCode": 44
+  },
+  {
+    "CountryISOCode": "US",
+    "MobileCode": 1,
+    "symbol": "$",
+    "currency_code": "USD"
+  },
+  {
+    "CountryISOCode": "UY",
+    "MobileCode": 598
+  },
+  {
+    "CountryISOCode": "UZ",
+    "MobileCode": 998
+  },
+  {
+    "CountryISOCode": "VU",
+    "MobileCode": 678
+  },
+  {
+    "CountryISOCode": "VE",
+    "MobileCode": 58
+  },
+  {
+    "CountryISOCode": "VN",
+    "MobileCode": 84
+  },
+  {
+    "CountryISOCode": "VG",
+    "MobileCode": 1284
+  },
+  {
+    "CountryISOCode": "VI",
+    "MobileCode": 1340
+  },
+  {
+    "CountryISOCode": "YE",
+    "MobileCode": 967
+  },
+  {
+    "CountryISOCode": "ZM",
+    "MobileCode": 260
+  },
+  {
+    "CountryISOCode": "ZW",
+    "MobileCode": 263
+  }
+]

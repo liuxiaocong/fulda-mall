@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aws_check_version" translatable="false">https://s3-ap-southeast-1.amazonaws.com/fulda-app/android/android_release_version.json</string>
+</resources>

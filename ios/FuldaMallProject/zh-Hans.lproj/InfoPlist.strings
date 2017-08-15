@@ -1,0 +1,13 @@
+/* 
+  File.strings
+  FuldaMallProject
+
+  Created by XieChao on 8/3/17.
+  Copyright © 2017 Facebook. All rights reserved.
+*/
+"NSCameraUsageDescription"="富达商城需要访问你的摄像头";
+"NSLocationUsageDescription"="富达商城需要访问你的地理位置";
+"NSLocationWhenInUseDescription"="富达商城需要访问你的地理位置";
+"NSLocationWhenInUseUsageDescription"="富达商城需要访问你的地理位置";
+"NSPhotoLibraryUsageDescription"="富达商城需要访问你的相册";
+"CFBundleName" = "FD Mall(S)";

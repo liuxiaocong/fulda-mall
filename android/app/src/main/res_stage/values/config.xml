@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id" translatable="false">395079980867559</string>
+    <string name="hock_app_app_identifier" translatable="false">23d6f1b21aee40a58bf3c5ebad5bb104</string>
+    <string name="api_domain" translatable="false">https://stageapi.fuldamall.com</string>
+    <string name="web_domain" translatable="false">https://sandbox.fuldamall.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyAbsTXYkw4FT_HGjENSMdxfmVpbA10_j9A</string>
+    <string name="gcm_sender_id" translatable="false">847555200264</string>
+</resources>

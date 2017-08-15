@@ -1,0 +1,8 @@
+const shopActionTypes = {
+    SHOP_INFO_UPDATE: 'SHOP_INFO_UPDATE',
+    SHOP_CLEAR: 'SHOP_CLEAR',
+    PENDING_SHOP_INFO_UPDATE: 'PENDING_SHOP_INFO_UPDATE',
+    PENDING_SHOP_CLEAR: 'PENDING_SHOP_CLEAR',
+};
+
+export default  shopActionTypes;

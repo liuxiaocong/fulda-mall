@@ -1,0 +1,8 @@
+const MainPageTabType = {
+    MAIN_FIRST_PAGE: "MAIN_FIRST_PAGE",
+    MAIN_SEARCH_PAGE: 'MAIN_SEARCH_PAGE',
+    MAIN_SHOPPING_CART_PAGE: 'MAIN_SHOPPING_CART_PAGE',
+    MAIN_ME_PAGE: 'MAIN_ME_PAGE',
+};
+
+export default MainPageTabType;

@@ -1,0 +1,1389 @@
+{
+  "about_fulda": "关于我们",
+  "account": "账号",
+  "account_balance": "账户余额",
+  "account_info": "账号信息",
+  "account_type": {
+    "common_user": "普通用户",
+    "shopper": "普通商家"
+  },
+  "actually_amount": "实收",
+  "add_account": "添加账号",
+  "add_address": "添加地址",
+  "add_card": "添加银行卡",
+  "add_card_agreement_detail": "点击“保存”则认为我已经认真阅读并且完全同意 {} 中的所有条款。",
+  "add_card_agreement_title": "用户服务协议",
+  "add_fail": "添加失败，请稍后重试",
+  "add_now": "现在添加",
+  "add_payment_methods": "添加支付方式",
+  "add_success": "添加成功",
+  "add_to_shopping_cart": "加入购物车",
+  "add_to_shopping_cart_success": "成功加入购物车",
+  "address": "地址",
+  "album": "相册",
+  "already_close": "已关闭",
+  "already_deliver": "已发货",
+  "already_receive": "已收获",
+  "amount_set_cancel": "取消金额",
+  "app_name": "富达商城",
+  "apply_access": "申请接入",
+  "attitude_of_shop_owner": "商家服务态度",
+  "attributes": "属性",
+  "available_balance": "可用余额",
+  "average_comment": "中评",
+  "back_to_login_page": "返回登录页",
+  "back_to_main_page": "返回主页",
+  "back_to_my_wallet": "返回我的钱包",
+  "back_to_personal_info_page": "返回个人信息页",
+  "back_to_setting_page": "返回设置页",
+  "bad": "差评",
+  "bad_comment": "差评",
+  "bank_account": "银行账号",
+  "bank_account_name": "开户名",
+  "bank_name": "开户行",
+  "base_info": "基本信息",
+  "base_setting": "基本设置",
+  "be_sure_bank_account_the_same": "请确保两次填写的账号一致",
+  "become_seller": "成为商家",
+  "belong_area": "所属区域",
+  "bind": "绑定",
+  "bind_exist_account": "绑定已有账号",
+  "bind_wechat": "微信公共账号整合",
+  "birthday": "生日",
+  "bottom_code": "底部代码",
+  "brand": "品牌",
+  "browse": "浏览",
+  "business_agreement": "《商城入驻协议》",
+  "business_agreement_title": "商城入驻协议",
+  "business_list": "商铺列表",
+  "business_order": "商家订单",
+  "buy_immediately": "立即购买",
+  "cancel": "取消",
+  "cancel_order": "取消订单",
+  "cancel_success": "取消成功",
+  "cannot_delete_default_account": "不能删除默认账号",
+  "card_number": "银行卡号码",
+  "category": "分类",
+  "choose_only_one_shop_to_pay": "请选择一家商店进行支付",
+  "classification_title": "分类：",
+  "clear_history": "清除历史",
+  "client_comments": "客户留言",
+  "close_reason": "关闭原因",
+  "comment": "评价",
+  "common": {
+    "cancel": "取消",
+    "distance": {
+      "kilometer": "{}千米",
+      "meter": "{}米"
+    },
+    "ok": "确认"
+  },
+  "company_register_number": "公司注册号",
+  "complete": "完成",
+  "complete_user_info": "完成信息",
+  "confirm": "确定",
+  "confirm_already_shipping": "确定已经发货？",
+  "confirm_close": "是否关闭网店",
+  "confirm_order": "确定收货",
+  "confirm_password": "确认密码",
+  "confirm_shipping": "确定发货",
+  "confirm_to_cancel_order": "确定取消订单？",
+  "confirm_to_delete_address": "确定删除 ”{}” ?",
+  "confirm_to_delete_order": "确定删除订单？",
+  "confirm_to_receive_order": "确定已经收到该订单",
+  "congratulation_verify_mobile_success": "恭喜你已经验证了手机号码",
+  "core_setting": "核心设置",
+  "cost": "费用",
+  "count": "数量",
+  "country": {
+    "AD": {
+      "sort": "AN DAO ER",
+      "value": "安道尔"
+    },
+    "AE": {
+      "sort": "A LA BO LIAN HE QIU ZHANG GUO",
+      "value": "阿拉伯联合酋长国"
+    },
+    "AF": {
+      "sort": "A FU HAN",
+      "value": "阿富汗"
+    },
+    "AG": {
+      "sort": "AN TI GUA HE BA BU DA",
+      "value": "安提瓜和巴布达"
+    },
+    "AI": {
+      "sort": "AN GUI LA",
+      "value": "安圭拉"
+    },
+    "AL": {
+      "sort": "A ER BA NI YA",
+      "value": "阿尔巴尼亚"
+    },
+    "AM": {
+      "sort": "YA MEI NI LA",
+      "value": "亚美尼亚"
+    },
+    "AN": {
+      "sort": "HE SHU AN DE LIE SI",
+      "value": "荷属安的列斯"
+    },
+    "AO": {
+      "sort": "AN GE LA",
+      "value": "安哥拉"
+    },
+    "AR": {
+      "sort": "A GEN TING",
+      "value": "阿根廷"
+    },
+    "AT": {
+      "sort": "O DI LI",
+      "value": "奥地利"
+    },
+    "AU": {
+      "sort": "AO DA LI YA",
+      "value": "澳大利亚"
+    },
+    "AW": {
+      "sort": "A LU BA",
+      "value": "阿鲁巴"
+    },
+    "AZ": {
+      "sort": "A SAI BAI JIANG",
+      "value": "阿塞拜疆"
+    },
+    "BA": {
+      "sort": "BO SI NI YA HEI SAI GE WEI NA",
+      "value": "波斯尼亚黑塞哥维那"
+    },
+    "BB": {
+      "sort": "BA BA DUO SI",
+      "value": "巴巴多斯"
+    },
+    "BD": {
+      "sort": "MENG JIA LA GUO",
+      "value": "孟加拉国"
+    },
+    "BE": {
+      "sort": "BI LI SHI",
+      "value": "比利时"
+    },
+    "BF": {
+      "sort": "BU JI NA FA SUO",
+      "value": "布基纳法索"
+    },
+    "BG": {
+      "sort": "BAO JIA LI YA",
+      "value": "保加利亚"
+    },
+    "BH": {
+      "sort": "BA LIN",
+      "value": "巴林"
+    },
+    "BI": {
+      "sort": "BU LONG DI",
+      "value": "布隆迪"
+    },
+    "BJ": {
+      "sort": "BEI NING",
+      "value": "贝宁"
+    },
+    "BM": {
+      "sort": "BAI MU DA",
+      "value": "百慕大"
+    },
+    "BN": {
+      "sort": "WEN LAI DA LU SA LAN GUO",
+      "value": "文莱达鲁萨兰国"
+    },
+    "BO": {
+      "sort": "BO LI WEI YA",
+      "value": "玻利维亚"
+    },
+    "BR": {
+      "sort": "BA XI",
+      "value": "巴西"
+    },
+    "BS": {
+      "sort": "BA HA MA",
+      "value": "巴哈马"
+    },
+    "BT": {
+      "sort": "BU DAN",
+      "value": "不丹"
+    },
+    "BW": {
+      "sort": "BO CI WA NA",
+      "value": "博茨瓦纳"
+    },
+    "BY": {
+      "sort": "BAI E LUO SI",
+      "value": "白俄罗斯"
+    },
+    "BZ": {
+      "sort": "BO LI ZI",
+      "value": "伯利兹"
+    },
+    "CA": {
+      "sort": "JIA NA DA",
+      "value": "加拿大"
+    },
+    "CD": {
+      "sort": "GANG GUO MIN ZHU GONG HE GUO",
+      "value": "刚果（民主共和国）"
+    },
+    "CF": {
+      "sort": "ZHONG FEI GONG HE GUO",
+      "value": "中非共和国"
+    },
+    "CG": {
+      "sort": "GANG GUO GONG HE GUO",
+      "value": "刚果（共和国）"
+    },
+    "CH": {
+      "sort": "RUI SHI",
+      "value": "瑞士"
+    },
+    "CK": {
+      "sort": "KU KE QUN DAO",
+      "value": "库克群岛"
+    },
+    "CL": {
+      "sort": "ZHI LI",
+      "value": "智利"
+    },
+    "CM": {
+      "sort": "KA MAI LONG",
+      "value": "喀麦隆"
+    },
+    "CN": {
+      "currency_name": "人民币",
+      "sort": "ZHONG GUO",
+      "value": "中国"
+    },
+    "CO": {
+      "sort": "GE LUN BI YA",
+      "value": "哥伦比亚"
+    },
+    "CR": {
+      "sort": "GE SI DA LI JIA",
+      "value": "哥斯达黎加"
+    },
+    "CU": {
+      "sort": "GU BA",
+      "value": "古巴"
+    },
+    "CV": {
+      "sort": "KA FU WEI DE",
+      "value": "卡佛维德"
+    },
+    "CY": {
+      "sort": "SAI PU LU SI",
+      "value": "塞浦路斯"
+    },
+    "CZ": {
+      "sort": "JIE KE GUO HE GUO",
+      "value": "捷克共和国"
+    },
+    "DE": {
+      "sort": "DE GUO",
+      "value": "德国"
+    },
+    "DJ": {
+      "sort": "JI BU TI",
+      "value": "吉布提"
+    },
+    "DK": {
+      "sort": "DAN MAI",
+      "value": "丹麦"
+    },
+    "DM": {
+      "sort": "DUO MI NI KE",
+      "value": "多米尼克"
+    },
+    "DO": {
+      "sort": "DUO MING NI YA GONG HE GUO",
+      "value": "多明尼加共和国"
+    },
+    "DZ": {
+      "sort": "A ER JI LI YA",
+      "value": "阿尔及利亚"
+    },
+    "EC": {
+      "sort": "E GUA DUO ER",
+      "value": "厄瓜多尔"
+    },
+    "EE": {
+      "sort": "AI SHA NI YA",
+      "value": "爱沙尼亚"
+    },
+    "EG": {
+      "sort": "AI JI",
+      "value": "埃及"
+    },
+    "ES": {
+      "sort": "XI BAN YA",
+      "value": "西班牙"
+    },
+    "ET": {
+      "sort": "AI SAI E BI YA",
+      "value": "埃塞俄比亚"
+    },
+    "FI": {
+      "sort": "FEN LAN",
+      "value": "芬兰"
+    },
+    "FJ": {
+      "sort": "FEI JI",
+      "value": "斐济"
+    },
+    "FM": {
+      "sort": "MI KE LUO NI XI YA",
+      "value": "密克罗尼西亚"
+    },
+    "FO": {
+      "sort": "FA LUO QUN DAO",
+      "value": "法罗群岛"
+    },
+    "FR": {
+      "sort": "FA GUO",
+      "value": "法国"
+    },
+    "GA": {
+      "sort": "JIA PENG",
+      "value": "加蓬"
+    },
+    "GB": {
+      "sort": "YING GUO",
+      "value": "英国"
+    },
+    "GD": {
+      "sort": "GE LIN NA DA",
+      "value": "格林纳达"
+    },
+    "GE": {
+      "sort": "GE LU JI YA",
+      "value": "格鲁吉亚"
+    },
+    "GF": {
+      "sort": "FA SHU GUI YA NA",
+      "value": "法属圭亚那"
+    },
+    "GG": {
+      "sort": "GEN XI DAO",
+      "value": "根西岛"
+    },
+    "GH": {
+      "sort": "JIA NA",
+      "value": "加纳"
+    },
+    "GI": {
+      "sort": "ZHI BU LUO TUO",
+      "value": "直布罗陀"
+    },
+    "GL": {
+      "sort": "GE LING LAN",
+      "value": "格陵兰"
+    },
+    "GM": {
+      "sort": "GANG BI YA",
+      "value": "冈比亚"
+    },
+    "GN": {
+      "sort": "JI NEI YA",
+      "value": "几内亚"
+    },
+    "GP": {
+      "sort": "GUA DE LUO PU",
+      "value": "瓜德罗普"
+    },
+    "GQ": {
+      "sort": "CI DAO JI NEI YA",
+      "value": "赤道几内亚"
+    },
+    "GR": {
+      "sort": "XI LA",
+      "value": "希腊"
+    },
+    "GT": {
+      "sort": "WEI DI MA LA",
+      "value": "危地马拉"
+    },
+    "GU": {
+      "sort": "GUAN DAO",
+      "value": "关岛"
+    },
+    "GW": {
+      "sort": "JI NEI YA BI SAO",
+      "value": "几内亚比绍"
+    },
+    "GY": {
+      "sort": "GUI YA NA",
+      "value": "圭亚那"
+    },
+    "HK": {
+      "sort": "XIANG GANG",
+      "value": "香港"
+    },
+    "HN": {
+      "sort": "HONG DU LA SI",
+      "value": "洪都拉斯"
+    },
+    "HR": {
+      "sort": "KE LUO DI YA",
+      "value": "克罗地亚"
+    },
+    "HT": {
+      "sort": "HAI DI",
+      "value": "海地"
+    },
+    "HU": {
+      "sort": "XIONG YA LI",
+      "value": "匈牙利"
+    },
+    "ID": {
+      "sort": "YIN DU NI XI YA",
+      "value": "印度尼西亚"
+    },
+    "IE": {
+      "sort": "AI ER LAN GONG HE GUO",
+      "value": "爱尔兰共和国"
+    },
+    "IL": {
+      "sort": "YI SE LIE",
+      "value": "以色列"
+    },
+    "IM": {
+      "sort": "MA ER DAO",
+      "value": "马恩岛"
+    },
+    "IN": {
+      "sort": "YIN DU",
+      "value": "印度"
+    },
+    "IQ": {
+      "sort": "YI LA KE",
+      "value": "伊拉克"
+    },
+    "IR": {
+      "sort": "YI LANG",
+      "value": "伊朗"
+    },
+    "IS": {
+      "sort": "BING DAO",
+      "value": "冰岛"
+    },
+    "IT": {
+      "sort": "YI DA LI",
+      "value": "意大利"
+    },
+    "JE": {
+      "sort": "ZE XI",
+      "value": "泽西"
+    },
+    "JM": {
+      "sort": "YA MAI JIA",
+      "value": "牙买加"
+    },
+    "JO": {
+      "sort": "YUE DAN",
+      "value": "约旦"
+    },
+    "JP": {
+      "sort": "RI BEN",
+      "value": "日本"
+    },
+    "KE": {
+      "sort": "KEN NI YA",
+      "value": "肯尼亚"
+    },
+    "KG": {
+      "sort": "JI ER JI SI SI TAN",
+      "value": "吉尔吉斯斯坦"
+    },
+    "KH": {
+      "sort": "JIAN PU ZAI",
+      "value": "柬埔寨"
+    },
+    "KI": {
+      "sort": "JI LI BA SI",
+      "value": "基里巴斯"
+    },
+    "KM": {
+      "sort": "KE MO LUO",
+      "value": "科摩罗"
+    },
+    "KN": {
+      "sort": "SHENG JI CI HE NI WEI SI",
+      "value": "圣基茨和尼维斯"
+    },
+    "KP": {
+      "sort": "BEI HAN",
+      "value": "北韩"
+    },
+    "KR": {
+      "sort": "NAN HAN",
+      "value": "南韩"
+    },
+    "KW": {
+      "sort": "KE WEI TE",
+      "value": "科威特"
+    },
+    "KY": {
+      "sort": "KAI MAN QUN DAO",
+      "value": "开曼群岛"
+    },
+    "KZ": {
+      "sort": "HA SA KE SI TAN",
+      "value": "哈萨克斯坦"
+    },
+    "LA": {
+      "sort": "LAO WO",
+      "value": "老挝"
+    },
+    "LB": {
+      "sort": "LI BA NEN",
+      "value": "黎巴嫩"
+    },
+    "LC": {
+      "sort": "SHENG LU XI YA",
+      "value": "圣卢西亚"
+    },
+    "LI": {
+      "sort": "LIE ZHI DUN SHI DENG",
+      "value": "列支敦士登"
+    },
+    "LK": {
+      "sort": "SI LI LAN KA",
+      "value": "斯里兰卡"
+    },
+    "LR": {
+      "sort": "LI BI LI YA",
+      "value": "利比里亚"
+    },
+    "LS": {
+      "sort": "LAI SUO TUO",
+      "value": "莱索托"
+    },
+    "LT": {
+      "sort": "LI TAO WAN",
+      "value": "立陶宛"
+    },
+    "LU": {
+      "sort": "LU SEN BAO",
+      "value": "卢森堡"
+    },
+    "LV": {
+      "sort": "LA TUO WEI YA",
+      "value": "拉脱维亚"
+    },
+    "LY": {
+      "sort": "LI BI YA",
+      "value": "利比亚"
+    },
+    "MA": {
+      "sort": "MO LUO GE",
+      "value": "摩洛哥"
+    },
+    "MC": {
+      "sort": "MO NA GE",
+      "value": "摩纳哥"
+    },
+    "MD": {
+      "sort": "MO ER DUO WA",
+      "value": "摩尔多瓦"
+    },
+    "ME": {
+      "sort": "HEI SHAN",
+      "value": "黑山"
+    },
+    "MF": {
+      "sort": "SHENG MA DING FA SHU",
+      "value": "圣马丁（法属）"
+    },
+    "MG": {
+      "sort": "MA DA JIA SI JIA",
+      "value": "马达加斯加"
+    },
+    "MK": {
+      "sort": "MA QI DUN",
+      "value": "马其顿"
+    },
+    "ML": {
+      "sort": "MA LI",
+      "value": "马里"
+    },
+    "MM": {
+      "sort": "MIAN DIAN",
+      "value": "缅甸"
+    },
+    "MN": {
+      "sort": "MENG GU",
+      "value": "蒙古"
+    },
+    "MO": {
+      "sort": "AO MEN",
+      "value": "澳门"
+    },
+    "MP": {
+      "sort": "BEI MA LI YA NA QUN DAO",
+      "value": "北马里亚纳群岛"
+    },
+    "MQ": {
+      "sort": "MA TI NI KE",
+      "value": "马提尼克"
+    },
+    "MR": {
+      "sort": "MAO LI TA NI YA",
+      "value": "毛里塔尼亚"
+    },
+    "MS": {
+      "sort": "MENG TE SAI LA TE",
+      "value": "蒙特塞拉特"
+    },
+    "MT": {
+      "sort": "MA QI TA",
+      "value": "马耳他"
+    },
+    "MU": {
+      "sort": "MAO LI QIU SI",
+      "value": "毛里求斯"
+    },
+    "MV": {
+      "sort": "MA ER DAI FU",
+      "value": "马尔代夫"
+    },
+    "MW": {
+      "sort": "MA LA WEI",
+      "value": "马拉维"
+    },
+    "MX": {
+      "sort": "MO XI GE",
+      "value": "墨西哥"
+    },
+    "MY": {
+      "currency_name": "马来西亚林吉特",
+      "sort": "MA LAI XI YA",
+      "value": "马来西亚"
+    },
+    "MZ": {
+      "sort": "MO SANG BI KE",
+      "value": "莫桑比克"
+    },
+    "NA": {
+      "sort": "NA NI BI YA",
+      "value": "纳米比亚"
+    },
+    "NC": {
+      "sort": "XIN KA LI DUO NI YA",
+      "value": "新喀里多尼亚"
+    },
+    "NE": {
+      "sort": "NI RI ER",
+      "value": "尼日尔"
+    },
+    "NF": {
+      "sort": "NUO FU KE DAO",
+      "value": "诺福克岛"
+    },
+    "NG": {
+      "sort": "NI RI LI YA",
+      "value": "尼日利亚"
+    },
+    "NI": {
+      "sort": "NI JIA LA GUA",
+      "value": "尼加拉瓜"
+    },
+    "NL": {
+      "sort": "HE LAN",
+      "value": "荷兰"
+    },
+    "NO": {
+      "sort": "NUO WEI",
+      "value": "挪威"
+    },
+    "NP": {
+      "sort": "NI BO ER",
+      "value": "尼泊尔"
+    },
+    "NR": {
+      "sort": "NAO LU",
+      "value": "瑙鲁"
+    },
+    "NZ": {
+      "sort": "XIN XI LAN",
+      "value": "新西兰"
+    },
+    "OM": {
+      "sort": "A MAN",
+      "value": "阿曼"
+    },
+    "PA": {
+      "sort": "BA NA MA",
+      "value": "巴拿马"
+    },
+    "PE": {
+      "sort": "MI LU",
+      "value": "秘鲁"
+    },
+    "PF": {
+      "sort": "FA SHU BO LI NI XI YA",
+      "value": "法属波利尼西亚"
+    },
+    "PG": {
+      "sort": "BA BU YA XIN JI NEI YA",
+      "value": "巴布亚新几内亚"
+    },
+    "PH": {
+      "sort": "FEI LV BIN",
+      "value": "菲律宾"
+    },
+    "PK": {
+      "sort": "BA JI SI TAN",
+      "value": "巴基斯坦"
+    },
+    "PL": {
+      "sort": "BO LAN",
+      "value": "波兰"
+    },
+    "PR": {
+      "sort": "BO DUO LI GE",
+      "value": "波多黎各"
+    },
+    "PS": {
+      "sort": "BA LE SI TAN GUO",
+      "value": "巴勒斯坦国"
+    },
+    "PT": {
+      "sort": "PU TAO YA",
+      "value": "葡萄牙"
+    },
+    "PW": {
+      "sort": "PA LAO",
+      "value": "帕劳"
+    },
+    "PY": {
+      "sort": "BA LA GUI",
+      "value": "巴拉圭"
+    },
+    "QA": {
+      "sort": "KA TA ER",
+      "value": "卡塔尔"
+    },
+    "RE": {
+      "sort": "LIU NI WANG",
+      "value": "留尼汪"
+    },
+    "RO": {
+      "sort": "LUO MA NI YA",
+      "value": "罗马尼亚"
+    },
+    "RS": {
+      "sort": "SAI ER WEI YA",
+      "value": "塞尔维亚"
+    },
+    "RU": {
+      "sort": "E LUO SI",
+      "value": "俄罗斯"
+    },
+    "RW": {
+      "sort": "LU WANG DA",
+      "value": "卢旺达"
+    },
+    "SA": {
+      "sort": "SHA TE A LA BO",
+      "value": "沙特阿拉伯"
+    },
+    "SC": {
+      "sort": "SAI SHE ER",
+      "value": "塞舌尔"
+    },
+    "SD": {
+      "sort": "SU DAN",
+      "value": "苏丹"
+    },
+    "SE": {
+      "sort": "RUI DIAN",
+      "value": "瑞典"
+    },
+    "SG": {
+      "currency_name": "新加坡元",
+      "sort": "XIN JIA PO",
+      "value": "新加坡"
+    },
+    "SH": {
+      "sort": "SHENG HE LE NA A SEN SONG HE TE LI SI TAN DA KU NI YA",
+      "value": "圣赫勒拿，阿森松和特里斯坦达库尼亚"
+    },
+    "SI": {
+      "sort": "SI LUO WEN NI YA",
+      "value": "斯洛文尼亚"
+    },
+    "SK": {
+      "sort": "SI LUO FA KE",
+      "value": "斯洛伐克"
+    },
+    "SL": {
+      "sort": "SAI LA LI ANG",
+      "value": "塞拉利昂"
+    },
+    "SM": {
+      "sort": "SHENG MA LI NUO GONG HE GUO",
+      "value": "圣马力诺（共和国）"
+    },
+    "SN": {
+      "sort": "SAI NEI JIA ER",
+      "value": "塞内加尔"
+    },
+    "SR": {
+      "sort": "SU LI NAN",
+      "value": "苏里南"
+    },
+    "SV": {
+      "sort": "SA ER WA DUO",
+      "value": "萨尔瓦多"
+    },
+    "SY": {
+      "sort": "XU LI YA",
+      "value": "叙利亚"
+    },
+    "SZ": {
+      "sort": "SI WEI SHI LAN",
+      "value": "斯威士兰"
+    },
+    "TC": {
+      "sort": "TE KE SI HE KAI KE SI QUN DAO",
+      "value": "特克斯和凯科斯群岛"
+    },
+    "TD": {
+      "sort": "ZA DE",
+      "value": "乍得"
+    },
+    "TG": {
+      "sort": "DUO GE",
+      "value": "多哥"
+    },
+    "TH": {
+      "sort": "TAI GUO",
+      "value": "泰国"
+    },
+    "TJ": {
+      "sort": "TA JI KE SI TAN",
+      "value": "塔吉克斯坦"
+    },
+    "TL": {
+      "sort": "DONG DI WEN",
+      "value": "东帝汶"
+    },
+    "TM": {
+      "sort": "TU KU MAN SI TAN",
+      "value": "土库曼斯坦"
+    },
+    "TN": {
+      "sort": "TU NI SI",
+      "value": "突尼斯"
+    },
+    "TO": {
+      "sort": "TANG JIA",
+      "value": "汤加"
+    },
+    "TR": {
+      "sort": "TU ER QI",
+      "value": "土耳其"
+    },
+    "TT": {
+      "sort": "TE LI NI DA HE DUO BA GE",
+      "value": "特立尼达和多巴哥"
+    },
+    "TW": {
+      "sort": "TAI WAN",
+      "value": "台湾"
+    },
+    "TZ": {
+      "sort": "TAN SANG NI YA",
+      "value": "坦桑尼亚"
+    },
+    "UA": {
+      "sort": "WU KE LAN",
+      "value": "乌克兰"
+    },
+    "UG": {
+      "sort": "WU GAN DA",
+      "value": "乌干达"
+    },
+    "US": {
+      "currency_name": "美元",
+      "sort": "MEI GUO",
+      "value": "美国"
+    },
+    "UY": {
+      "sort": "WU LA GUI",
+      "value": "乌拉圭"
+    },
+    "UZ": {
+      "sort": "WU ZI BIE KE SI TAN",
+      "value": "乌兹别克斯坦"
+    },
+    "VC": {
+      "sort": "SHENG WEN SEN TE HE GE LIN NA DING SI",
+      "value": "圣文森特和格林纳丁斯"
+    },
+    "VE": {
+      "sort": "WEI NEI RUI LA",
+      "value": "委内瑞拉"
+    },
+    "VG": {
+      "sort": "YING SHU WEI ER JING QUN DAO",
+      "value": "英属维尔京群岛"
+    },
+    "VI": {
+      "sort": "WEI ER JING QUN DAO MEI GUO",
+      "value": "维尔京群岛（美国）"
+    },
+    "VN": {
+      "sort": "YUE NAN",
+      "value": "越南"
+    },
+    "VU": {
+      "sort": "WA NU A TU",
+      "value": "瓦努阿图"
+    },
+    "WS": {
+      "sort": "SA MO YA",
+      "value": "萨摩亚"
+    },
+    "YE": {
+      "sort": "YE MEN GONG HE GUO",
+      "value": "也门共和国"
+    },
+    "YT": {
+      "sort": "MA YUE TE",
+      "value": "马约特"
+    },
+    "ZA": {
+      "sort": "NAN FEI",
+      "value": "南非"
+    },
+    "ZM": {
+      "sort": "ZAN BI YA",
+      "value": "赞比亚"
+    },
+    "ZW": {
+      "sort": "JIN BA BU WEI",
+      "value": "津巴布韦"
+    }
+  },
+  "country_location": "国家",
+  "create_account": "创建新账号",
+  "create_fail": "创建失败，请稍后重试",
+  "create_order_success": "成功创建订单",
+  "create_shop": "立即开店",
+  "create_success": "创建成功",
+  "create_time": "创建时间",
+  "credentials_number": "证件号",
+  "credit_card_title": "银行卡",
+  "credit_title": "信用：",
+  "currency_title": "货币单位",
+  "currency_unit": "货币单位",
+  "current_password": "当前密码",
+  "current_storage_count": "当前商品库存",
+  "current_template": "当前模版",
+  "default_account": "默认账号",
+  "default_address": "默认地址",
+  "default_template": "默认模版",
+  "delete": "删除",
+  "delete_fail": "删除失败，请稍后重试",
+  "delete_success": "删除成功",
+  "deliver_address": "收货地址",
+  "description": "描述",
+  "description_title": "描述：",
+  "discount": "折扣率",
+  "discount_expiry_tip": "你在 {} 之前不能编辑手续费",
+  "display_currency": "显示货币",
+  "distance_description": "距离{}",
+  "done": "完成",
+  "done_trade_record": "交易记录",
+  "download_app": "立即下载富达商城",
+  "download_fulda": "立即下载富达商城",
+  "download_fulda_at_once": "立即下载富达商城",
+  "edit": "编辑",
+  "edit_address": "编辑地址",
+  "email": "邮箱",
+  "empty": "无",
+  "empty_address_data": "还未设置任何地址",
+  "empty_fav_good": "您还未收藏任何商品",
+  "empty_fav_shop": "您还未收藏任何商铺",
+  "empty_fulda_record": "暂时没有富达宝记录",
+  "empty_goods": "没有商品",
+  "empty_recommend_list": "暂时没有推荐列表",
+  "empty_ref_data": "推荐列表暂时为空",
+  "empty_search_shop_list": "没有符合条件的商铺",
+  "empty_shopping_cart": "购物车未有商品",
+  "empty_shopping_cart_order": "您未选中任何商品",
+  "empty_top_up_card_list": "充值卡列表暂时为空",
+  "empty_trade_record": "暂时没有交易记录",
+  "empty_wait_comment_order": "您未有等待评论的商品",
+  "empty_wait_confirm_order": "您未有等待收货的商品",
+  "empty_wait_paid_order": "您未有商品未付款",
+  "empty_wait_ship_order": "您未有等待发货的商品",
+  "empty_withdraw_account_data": "还未设置任何提款账号",
+  "empty_withdraw_record": "还没有任何提现记录",
+  "end_time": "终止时间",
+  "entity": "实体",
+  "expiry_data": "过期时间",
+  "express_delivery": "快递",
+  "failed_to_get_location": "获得地理位置失败!",
+  "favorite": "收藏",
+  "favorite_fail": "收藏失败",
+  "favorite_success": "收藏成功",
+  "female": "女",
+  "few_seconds_ago": "刚刚",
+  "find_back_account_or_password": "找回密码",
+  "find_back_by_email": "邮箱找回",
+  "find_back_by_phone": "手机找回",
+  "find_back_pay_password": "找回支付密码",
+  "find_email_link_and_reset": "查收邮件链接，激活后可重置密码",
+  "finish": "完成",
+  "forget_password": "忘记用户密码",
+  "forgot_password": "忘记密码",
+  "forgot_pay_password": "忘记支付密码",
+  "fulda_balance": "富达宝",
+  "fulda_discount_setting": "手续费",
+  "fulda_mall": "富达商城",
+  "fulda_pay": "富达支付",
+  "fulda_record": "富达宝记录",
+  "fulda_rewards_credit_support_value": "折扣率{}%",
+  "fulda_use_able_cash": "手续费",
+  "get_amount": "取款金额",
+  "get_token": "获得验证码",
+  "get_verify_code": "获取验证码",
+  "get_verify_code_success": "成功获得验证码",
+  "give_me_comment": "给我评价",
+  "good": "好评",
+  "good_comment": "好评",
+  "good_rate": "好评率",
+  "goods": "商品",
+  "goods_comment": "商品评论",
+  "goods_detail": "商品详情",
+  "goods_list": "商品列表",
+  "goods_match_with_description": "商品与描述相符",
+  "goods_qrcode": "商品二维码",
+  "home": "首页",
+  "id_number": "身份证",
+  "input_bank_account_again": "再次填写银行账号",
+  "input_paid_password": "输入支付密码",
+  "just_now": "刚刚",
+  "lat_and_lon": "经纬度",
+  "location": "地理位置",
+  "location_choose_title": "地区选择",
+  "location_select": "地图选择",
+  "login": "登录",
+  "login_by_other_account": "其他账号登录",
+  "login_tip": "想看更多内容，请登录！",
+  "logout_current_account": "退出当前账号",
+  "logout_success": "成功登出",
+  "luck_wheel": "幸运轮盘",
+  "lucky_wheel_result_tip": "恭喜你，你获得了: {}",
+  "main_business": "主营",
+  "main_business_title": "主营：",
+  "main_tab": {
+    "first": "首页",
+    "me": "我的",
+    "search": "搜索",
+    "shopping_cart": "购物车"
+  },
+  "male": "男",
+  "manage": "管理",
+  "master_card_title": "万事达卡",
+  "material": "资料",
+  "min_discount_tip": "线上商店折扣率最少为10%，最多为100%；线下商店折扣率最少为5%，最多为100%",
+  "mobile": "手机",
+  "mobile_email": "手机\\邮箱",
+  "mobile_number": "手机号",
+  "mobile_phone_recharge": "手机充值",
+  "modify_info_tip": "没有完成以下资料填写，请填写以下所有信息。",
+  "money": "金额",
+  "more": "更多",
+  "more_goods_tip": "更多商品或商铺请前往“搜索”页面",
+  "my_avatar": "我的头像",
+  "my_comment": "我的评价",
+  "my_favorites": "我的收藏",
+  "my_id_card": "我的名片",
+  "my_id_photo": "我的证件",
+  "my_invite": "我的邀请",
+  "my_name_card": "我的名片",
+  "my_orders": "我的订单",
+  "my_tools": "必备工具",
+  "my_wallet": "我的钱包",
+  "name": "姓名",
+  "name_card": "名片",
+  "navigator": "导航",
+  "network_carriers": "运营商",
+  "new_password": "新密码",
+  "next": "下一步",
+  "next_step": "下一步",
+  "no_internet_connection": "没有网络连接",
+  "no_way_to_find_pay_pswd": "你的账号没有办法找回支付密码，请先绑定手机号或者邮箱",
+  "no_way_to_find_pswd": "你的账号没有办法找回密码，请先绑定手机号或者邮箱",
+  "normal": "中评",
+  "normal_shop": "普通商铺",
+  "not_enough_balance": "可用余额不足，请使用第三方支付",
+  "not_need_input_current_password_when_first_time": " * 第一次设置无需填写当前密码",
+  "null": "无",
+  "one_day_ago": "1天前",
+  "one_hour_ago": "1小时前",
+  "one_min_ago": "1分钟前",
+  "one_week_ago": "1周之前",
+  "online": "在线",
+  "order_list": "商品清单",
+  "ordinary_mail": "平邮",
+  "original_price": "原价",
+  "other_deliver_address": "其他收货地址",
+  "output_business_category_business_address": "输入商家，品类，商圈，地址",
+  "packet_type": "套餐类型",
+  "paid_later": "稍候支付",
+  "paid_password": "支付密码",
+  "paid_password_width_too_short": "支付密码长度不正确",
+  "paid_success": "支付成功",
+  "password": "密码",
+  "password_and_currency": "密码和货币",
+  "password_must_same": "两次输入的密码必须一致",
+  "password_not_the_same": "密码不一样",
+  "pay": "付款",
+  "people_count": "人数",
+  "personal_info": "个人信息",
+  "phone": "电话",
+  "phone_or_email": "手机\\邮箱",
+  "photo_album": "相册",
+  "plz_finish_info_below": "没有完成以下资料填写，请填写以下所有信息",
+  "plz_input_account_no": "请输入银行账号",
+  "plz_input_address": "请输入地址",
+  "plz_input_amount": "请输入金额",
+  "plz_input_area": "请输入所在区域",
+  "plz_input_bank_account_name": "请输入银行开户名",
+  "plz_input_bank_name": "请输入银行名称",
+  "plz_input_card_number": "请输入银行卡号",
+  "plz_input_close_reason": "请输入关闭原因",
+  "plz_input_comment": "请填写你的评价",
+  "plz_input_correct_amount": "请输入正确的金额",
+  "plz_input_current_password": "请输入当前密码",
+  "plz_input_cvv": "请输入 CVV",
+  "plz_input_email": "请填写邮箱地址",
+  "plz_input_expiry_date": "请输入过期时间",
+  "plz_input_id_number": "请输入身份证号码",
+  "plz_input_mobile": "请输入手机号",
+  "plz_input_mobile_or_email": "请输入手机\\邮箱",
+  "plz_input_name": "请输入用户名",
+  "plz_input_new_password": "请输入新密码",
+  "plz_input_paid_password": "请输入支付密码",
+  "plz_input_password": "请输入密码",
+  "plz_input_phone": "请输入电话号码",
+  "plz_input_phone_email": "请填写手机或邮箱",
+  "plz_input_postcode": "请输入邮编",
+  "plz_input_recipient": "请输入收件人",
+  "plz_input_shop_address": "请输入商店地址",
+  "plz_input_shop_company_register_number": "请输入商店公司注册号码",
+  "plz_input_shop_description": "请输入商店描述",
+  "plz_input_shop_email": "请输入商店电子邮件",
+  "plz_input_shop_frc_discount": "请输入商店折扣率",
+  "plz_input_shop_id_no": "请输入商店营业执照号码",
+  "plz_input_shop_main_business": "请输入商店主营业务",
+  "plz_input_shop_mobile": "请输入商店手机号码",
+  "plz_input_shop_owner_name": "请输入所有者名字",
+  "plz_input_shop_postal_code": "请输入商店邮编",
+  "plz_input_shop_remark": "请输入备注",
+  "plz_input_shop_telephone": "请输入商店电话",
+  "plz_input_token": "请输入你的验证码",
+  "plz_input_top_up_amount": "请输入充值金额",
+  "plz_input_user_name_and_password": "请输入用户名以及密码",
+  "plz_input_verify_code": "请输入验证码",
+  "plz_input_wechat_appid": "请填写微信 APP ID",
+  "plz_input_wehcat_appsecret": "请填写微信 APP SECRET",
+  "plz_login_email_in_24_hour": "请在24小时内登录邮箱",
+  "plz_select": "请选择",
+  "plz_select_account": "账号选择",
+  "plz_select_country_location": "请选择国家",
+  "plz_select_gender": "请选择性别",
+  "plz_select_goods_count": "请选择商品数量",
+  "plz_select_network_carriers": "请选择运营商",
+  "plz_select_withdraw_account": "请选择提现账号",
+  "plz_set_description": "请设置描述",
+  "plz_set_discount_percentage": "请设置手续费",
+  "plz_set_main_business": "请设置主营业务",
+  "plz_set_phone": "请设置电话",
+  "plz_set_shop_name": "请设置商铺名称",
+  "postcode": "邮编",
+  "primary": "主账号",
+  "qr_pay": "二维码支付",
+  "qr_pay_success": "二维码支付成功",
+  "qrcode_not_valid": "你所提供的二维码无法识别，请换其他方式操作",
+  "receipt": "收款",
+  "recipient": "收件人",
+  "recipient_phone": "收件人电话",
+  "recommend_business": "推荐商铺",
+  "recommend_frc_service": "富达宝推荐商品",
+  "recommend_list": "推荐列表",
+  "recommend_service": "推荐商品",
+  "register": "注册",
+  "register_number": "注册号",
+  "remark": "备注",
+  "reset_email_sent": "密码重置邮件已经发送成功",
+  "reset_login_password": "重置登录密码",
+  "s_day_ago": "{}天前",
+  "s_hour_ago": "{}小时前",
+  "s_min_ago": "{}分钟前",
+  "s_week_ago": "{}周之前",
+  "sales": "销量",
+  "save": "保存",
+  "save_failed": "保存失败：",
+  "save_picture": "保存图片",
+  "save_success": "保存成功",
+  "scan": "扫一扫",
+  "scan_pay_tip": "让对方开启“扫一扫”功能向我付款",
+  "scan_tips": "将二维码对准框内，可以自动扫描",
+  "search": "搜索",
+  "search_by_category": "根据类别查找",
+  "search_country_tip": "请输入你要查找的国家",
+  "search_goods_result": "为你搜索出 {} 件商品",
+  "search_history_title": "历史搜索关键字",
+  "search_shop_result": "为你搜索出 {} 间商铺",
+  "search_tip": "输入商家，品类，商圈，地址",
+  "select_all": "全选",
+  "select_area": "选择区域",
+  "select_deliver_address": "选择收货地址",
+  "select_withdraw_account": "选择提现账号",
+  "seller_info": "商家资料",
+  "send_success": "发送成功",
+  "serial_number": "流水号",
+  "service_account_title": "产品数量：",
+  "set_amount": "设置金额",
+  "set_as_primary": "设置为主账号",
+  "set_default": "设为默认",
+  "set_email": "设置邮箱",
+  "set_fail": "设置失败，请稍后重试",
+  "set_success": "设置成功",
+  "setting": "设置",
+  "settle_with_merchant_currency": "按发送者货币结算",
+  "settle_with_recipient_currency": "按接收者货币结算",
+  "settlement": "结算",
+  "sex": "性别",
+  "share_goods": "商品分享",
+  "share_shop": "分享商铺",
+  "ship_goods": "发货",
+  "ship_speed_of_shop_owner": "商家发货速度",
+  "shipping": "配送方式",
+  "shop": "商铺",
+  "shop_amount_include_shipping": "商铺合计（含运费）",
+  "shop_banner": "商店横幅",
+  "shop_category": "商铺类型",
+  "shop_credit_title": "商家信用",
+  "shop_customer_service_rate": "商家的服务态度",
+  "shop_delivery_speed_rate": "商家发货的速度",
+  "shop_detail": "商铺详情",
+  "shop_discount": "商铺优惠",
+  "shop_goods_match_rate": "商品与描述相符",
+  "shop_info": "商家资料",
+  "shop_logo": "商店logo",
+  "shop_name": "商铺名称",
+  "shop_orders": "商家订单",
+  "shop_owner_name": "店主姓名",
+  "shop_qrcode": "商铺二维码",
+  "shop_type": "商铺类别",
+  "shop_type_data": {
+    "child": {
+      "1": "在线商城",
+      "2": "实体店"
+    },
+    "title": "商店类型"
+  },
+  "shop_type_data_short": {
+    "child": {
+      "1": "在线",
+      "2": "实体"
+    },
+    "title": "商店类型"
+  },
+  "shopping_cart": "购物车",
+  "sorting_field_data": {
+    "child": {
+      "registerDate": "加盟时间",
+      "shopLevel": "商铺等级"
+    },
+    "title": "筛选"
+  },
+  "start_time": "起始时间：",
+  "stop_time": "终止时间：",
+  "store_can_use_fulda_cash": "商铺可用富达宝现金",
+  "street_address": "地址",
+  "submit": "提交",
+  "submit_fail": "提交失败，请稍候重试",
+  "submit_open_shop_tips": "点击“立即开店”则认为我已认真阅读并完全同意{}中的所有条款",
+  "submit_order": "提交订单",
+  "submit_success": "提交成功",
+  "token": "验证码",
+  "top_up": "充值",
+  "top_up_card_list": "充值卡列表",
+  "top_up_cord_info": "充值卡列表",
+  "top_up_failed": "充值失败",
+  "top_up_method": "充值方式",
+  "top_up_success": "充值成功",
+  "total_price": "合计",
+  "total_s_goods_should_paid_s": "共有 {} 件商品，{}",
+  "trade_fail": "交易失败",
+  "trade_order_number": "交易单号",
+  "trade_reason": "交易理由",
+  "trade_record": "交易记录",
+  "trade_success": "交易成功",
+  "trade_type": "交易类型",
+  "transfer": "转款",
+  "transfer_record": "交易记录",
+  "transfer_success": "转账成功",
+  "two_time_password_must_be_the_same": "两次输入的密码必须一致",
+  "un_favorite": "取消收藏",
+  "un_favorite_fail": "取消收藏失败",
+  "un_favorite_success": "取消收藏成功",
+  "un_paid": "未付款",
+  "un_pass_verify": "未验证",
+  "union_pay": "银联卡支付",
+  "update_fail": "更新失败，请稍后重试",
+  "update_success": "更新成功",
+  "upload_banner": "上传横幅",
+  "upload_credentials": "上传证件",
+  "upload_id_photo": "上传证件",
+  "upload_license": "上传执照",
+  "use_third_party_paid": "使用第三方支付",
+  "user": "使用者",
+  "user_agreement": "《用户服务协议》",
+  "user_agreement_detail": "点击“下一步”则认为我已经认真阅读并且完全同意 {} 中的所有条款。",
+  "user_agreement_title": "用户服务协议",
+  "user_password": "用户密码",
+  "verify_code": "验证码",
+  "verify_email": "验证邮箱",
+  "verify_info_sent_to_email": "验证信息已经成功发送您所填写的邮箱",
+  "verify_phone": "验证手机",
+  "verify_success": "验证成功",
+  "version": "版本：",
+  "view_order": "查看订单",
+  "visa_title": "Visa卡",
+  "wait_comment": "待评价",
+  "wait_confirm": "待收货",
+  "wait_deliver": "等待发货",
+  "wait_deliver_simple": "等待发货",
+  "wait_paid": "等待买家付款",
+  "way": "方式",
+  "withdraw": "提现",
+  "withdraw_account_edit": "取款账号编辑",
+  "withdraw_account_setting": "提现账号",
+  "withdraw_amount": "提现",
+  "withdraw_amount_title": "取款金额",
+  "withdraw_record": "提现记录",
+  "withdraw_success": "取款成功",
+  "withdraw_time": "提现时间",
+  "withdraw_tips": "提现是指把您商城账户中的余额提取到您私人的支付宝或银行卡中提现需向第三方交付手续费，每次提现需代第三方收取1%的手续费",
+  "without_shipping_cost": "不含运费",
+  "you_have_qr_pay_to_some_one": "你已经给“{}”进行二维码支付“{}”",
+  "you_have_transfer_to_some_one": "你已经给“{}”转账“{}”",
+  "you_need_to_set_paid_password_first": "请先设置支付密码",
+  "your_balance": "你的余额",
+  "your_select_s_count_is_s": "你选择的为: {} 个数为: {}"
+}
